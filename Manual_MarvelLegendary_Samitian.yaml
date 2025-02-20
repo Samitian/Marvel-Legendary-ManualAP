@@ -1,0 +1,290 @@
+﻿# Q. What is this file?
+# A. This file contains options which allow you to configure your multiworld experience while allowing
+#    others to play how they want as well.
+#
+# Q. How do I use it?
+# A. The options in this file are weighted. This means the higher number you assign to a value, the
+#    more chances you have for that option to be chosen. For example, an option like this:
+#
+#    map_shuffle:
+#      on: 5
+#      off: 15
+#
+#    Means you have 5 chances for map shuffle to occur, and 15 chances for map shuffle to be turned
+#    off.
+#
+# Q. I've never seen a file like this before. What characters am I allowed to use?
+# A. This is a .yaml file. You are allowed to use most characters.
+#    To test if your yaml is valid or not, you can use this website:
+#        http://www.yamllint.com/
+#    You can also verify that your Archipelago options are valid at this site:
+#        https://archipelago.gg/check
+
+# Your name in-game, limited to 16 characters.
+#     {player} will be replaced with the player's slot number.
+#     {PLAYER} will be replaced with the player's slot number, if that slot number is greater than 1.
+#     {number} will be replaced with the counter value of the name.
+#     {NUMBER} will be replaced with the counter value of the name, if the counter value is greater than 1.
+name: Player{number}
+
+# Used to describe your yaml. Useful if you have multiple files.
+description: Default Manual_MarvelLegendary_Samitian Template
+
+game: Manual_MarvelLegendary_Samitian
+requires:
+  version: 0.5.1 # Version of Archipelago required for this yaml to work as expected.
+
+Manual_MarvelLegendary_Samitian:
+  # Game Options
+  progression_balancing:
+    # A system that can move progression earlier, to try and prevent the player from getting stuck and bored early.
+    # 
+    # A lower setting means more getting stuck. A higher setting means less getting stuck.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 99
+    random: 0
+    random-low: 0
+    random-high: 0
+    disabled: 0 # equivalent to 0
+    normal: 50 # equivalent to 50
+    extreme: 0 # equivalent to 99
+
+  accessibility:
+    # Set rules for reachability of your items/locations.
+    # 
+    # **Full:** ensure everything can be reached and acquired.
+    # 
+    # **Minimal:** ensure what is needed to reach your goal can be acquired.
+    full: 50
+    minimal: 0
+
+  Enable_Dark_City:
+    # Should items/locations linked to this option be enabled?
+    'false': 0
+    'true': 50
+
+  Enable_Fantastic_Four:
+    # Should items/locations linked to this option be enabled?
+    'false': 0
+    'true': 50
+
+  Enable_Paint_the_Town_Red:
+    # Should items/locations linked to this option be enabled?
+    'false': 0
+    'true': 50
+
+  Enable_Villains:
+    # Should items/locations linked to this option be enabled?
+    'false': 0
+    'true': 50
+
+  Enable_Guardians_of_the_Galaxy:
+    # Should items/locations linked to this option be enabled?
+    'false': 0
+    'true': 50
+
+  Enable_Fear_Itself:
+    # Should items/locations linked to this option be enabled?
+    'false': 0
+    'true': 50
+
+  Enable_Secret_Wars_Volume_1:
+    # Should items/locations linked to this option be enabled?
+    'false': 0
+    'true': 50
+
+  Enable_Secret_Wars_Volume_2:
+    # Should items/locations linked to this option be enabled?
+    'false': 0
+    'true': 50
+
+  Enable_Captain_America_75th_Anniversary:
+    # Should items/locations linked to this option be enabled?
+    'false': 0
+    'true': 50
+
+  Enable_Civil_War:
+    # Should items/locations linked to this option be enabled?
+    'false': 0
+    'true': 50
+
+  Enable_Deadpool:
+    # Should items/locations linked to this option be enabled?
+    'false': 0
+    'true': 50
+
+  Enable_Noir:
+    # Should items/locations linked to this option be enabled?
+    'false': 0
+    'true': 50
+
+  Enable_XMen:
+    # Should items/locations linked to this option be enabled?
+    'false': 0
+    'true': 50
+
+  Enable_SpiderMan_Homecoming:
+    # Should items/locations linked to this option be enabled?
+    'false': 0
+    'true': 50
+
+  Enable_Champions:
+    # Should items/locations linked to this option be enabled?
+    'false': 0
+    'true': 50
+
+  Enable_World_War_Hulk:
+    # Should items/locations linked to this option be enabled?
+    'false': 0
+    'true': 50
+
+  Enable_Marvel_Studios_Phase_1:
+    # Should items/locations linked to this option be enabled?
+    'false': 0
+    'true': 50
+
+  Enable_AntMan:
+    # Should items/locations linked to this option be enabled?
+    'false': 0
+    'true': 50
+
+  Enable_Venom:
+    # Should items/locations linked to this option be enabled?
+    'false': 0
+    'true': 50
+
+  Enable_Dimensions:
+    # Should items/locations linked to this option be enabled?
+    'false': 0
+    'true': 50
+
+  Enable_Revelations:
+    # Should items/locations linked to this option be enabled?
+    'false': 0
+    'true': 50
+
+  Enable_SHIELD:
+    # Should items/locations linked to this option be enabled?
+    'false': 0
+    'true': 50
+
+  Enable_Heroes_of_Asgard:
+    # Should items/locations linked to this option be enabled?
+    'false': 0
+    'true': 50
+
+  Enable_The_New_Mutants:
+    # Should items/locations linked to this option be enabled?
+    'false': 0
+    'true': 50
+
+  Enable_Into_the_Cosmos:
+    # Should items/locations linked to this option be enabled?
+    'false': 0
+    'true': 50
+
+  Enable_Realm_of_Kings:
+    # Should items/locations linked to this option be enabled?
+    'false': 0
+    'true': 50
+
+  Enable_Annihilation:
+    # Should items/locations linked to this option be enabled?
+    'false': 0
+    'true': 50
+
+  Enable_Messiah_Complex:
+    # Should items/locations linked to this option be enabled?
+    'false': 0
+    'true': 50
+
+  Enable_Doctor_Strange_and_the_Shadows_of_Nightmare:
+    # Should items/locations linked to this option be enabled?
+    'false': 0
+    'true': 50
+
+  Enable_Marvel_Studios_Guardians_of_the_Galaxy:
+    # Should items/locations linked to this option be enabled?
+    'false': 0
+    'true': 50
+
+  Enable_Black_Panther:
+    # Should items/locations linked to this option be enabled?
+    'false': 0
+    'true': 50
+
+  Enable_Black_Widow:
+    # Should items/locations linked to this option be enabled?
+    'false': 0
+    'true': 50
+
+  Enable_Marvel_Studios_The_Infinity_Saga:
+    # Should items/locations linked to this option be enabled?
+    'false': 0
+    'true': 50
+
+  Enable_Midnight_Sons:
+    # Should items/locations linked to this option be enabled?
+    'false': 0
+    'true': 50
+
+  Enable_Marvel_Studios_What_If:
+    # Should items/locations linked to this option be enabled?
+    'false': 0
+    'true': 50
+
+  Enable_Marvel_Studios_AntMan_and_the_Wasp:
+    # Should items/locations linked to this option be enabled?
+    'false': 0
+    'true': 50
+
+  Enable_Marvel_2099:
+    # Should items/locations linked to this option be enabled?
+    'false': 0
+    'true': 50
+
+  Enable_Weapon_X:
+    # Should items/locations linked to this option be enabled?
+    'false': 0
+    'true': 50
+
+  # Item & Location Options
+  local_items:
+    # Forces these items to be in their native world.
+    []
+
+  non_local_items:
+    # Forces these items to be outside their native world.
+    []
+
+  start_inventory:
+    # Start with these items.
+    {}
+
+  start_hints:
+    # Start with these item's locations prefilled into the ``!hint`` command.
+    []
+
+  start_location_hints:
+    # Start with these locations and their item prefilled into the ``!hint`` command.
+    []
+
+  exclude_locations:
+    # Prevent these locations from having an important item.
+    []
+
+  priority_locations:
+    # Prevent these locations from having an unimportant item.
+    []
+
+  item_links:
+    # Share part of your item pool with other players.
+    []
+
+  start_inventory_from_pool:
+    # Start with these items and don't place them in the world.
+    # 
+    # The game decides what the replacement items will be.
+    {}
