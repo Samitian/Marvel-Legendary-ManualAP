@@ -31,7 +31,8 @@
     "name": "Villains (Set)",
     "category": [
       "Set",
-      "Villains"
+      "Villains",
+      "Base Set"
     ],
     "progression": true
   },
@@ -148,7 +149,8 @@
     "name": "Marvel Studios, Phase 1 (Set)",
     "category": [
       "Set",
-      "Marvel Studios Phase 1"
+      "Marvel Studios Phase 1",
+      "Base Set"
     ],
     "progression": true
   },
@@ -310,7 +312,8 @@
     "name": "Marvel Studios' What If...? (Set)",
     "category": [
       "Set",
-      "Marvel Studios' What If...?"
+      "Marvel Studios' What If...?",
+      "Base Set"
     ],
     "progression": true
   },
@@ -388,5 +391,15 @@
       "(Infinity Stones)"
     ],
     "progression_skip_balancing": true
+  },
+  {
+    "count": 1,
+    "name": "Core (Set)",
+    "category": [
+      "Set",
+      "Core",
+      "Base Set"
+    ],
+    "progression": true
   }
 ]

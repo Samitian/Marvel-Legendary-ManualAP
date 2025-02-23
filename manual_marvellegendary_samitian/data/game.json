@@ -3,5 +3,10 @@
   "game": "MarvelLegendary",
   "creator": "Samitian",
   "filler_item_name": "False Lead",
-  "starting_items": []
+  "starting_items": [
+	{
+		"item_categories": ["Base Set"],
+		"random": 1
+	}
+  ]
 }

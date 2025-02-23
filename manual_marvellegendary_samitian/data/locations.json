@@ -1,11 +1,11 @@
 [
   {
-    "name": "Dr. Doom (Core)",
+    "name": "Dr. Doom ",
     "category": [
       "Core",
       "Mastermind"
     ],
-    "requires": []
+    "requires": "|Core (Set)|"
   },
   {
     "name": "Loki (Core)",
@@ -13,15 +13,15 @@
       "Core",
       "Mastermind"
     ],
-    "requires": []
+    "requires": "|Core (Set)|"
   },
   {
-    "name": "Magneto (Core)",
+    "name": "Magneto ",
     "category": [
       "Core",
       "Mastermind"
     ],
-    "requires": []
+    "requires": "|Core (Set)|"
   },
   {
     "name": "Red Skull (Core)",
@@ -29,10 +29,10 @@
       "Core",
       "Mastermind"
     ],
-    "requires": []
+    "requires": "|Core (Set)|"
   },
   {
-    "name": "Apocalypse (Dark City)",
+    "name": "Apocalypse ",
     "category": [
       "Dark City",
       "Mastermind"
@@ -40,7 +40,7 @@
     "requires": "|Dark City (Set)|"
   },
   {
-    "name": "Kingpin (Dark City)",
+    "name": "Kingpin ",
     "category": [
       "Dark City",
       "Mastermind"
@@ -48,7 +48,7 @@
     "requires": "|Dark City (Set)|"
   },
   {
-    "name": "Mephisto (Dark City)",
+    "name": "Mephisto ",
     "category": [
       "Dark City",
       "Mastermind"
@@ -56,7 +56,7 @@
     "requires": "|Dark City (Set)|"
   },
   {
-    "name": "Mr. Sinister (Dark City)",
+    "name": "Mr. Sinister ",
     "category": [
       "Dark City",
       "Mastermind"
@@ -64,7 +64,7 @@
     "requires": "|Dark City (Set)|"
   },
   {
-    "name": "Stryfe (Dark City)",
+    "name": "Stryfe ",
     "category": [
       "Dark City",
       "Mastermind"
@@ -72,7 +72,7 @@
     "requires": "|Dark City (Set)|"
   },
   {
-    "name": "Galactus (Fantastic Four)",
+    "name": "Galactus ",
     "category": [
       "Fantastic Four",
       "Mastermind"
@@ -80,7 +80,7 @@
     "requires": "|Fantastic Four (Set)|"
   },
   {
-    "name": "Mole Man (Fantastic Four)",
+    "name": "Mole Man ",
     "category": [
       "Fantastic Four",
       "Mastermind"
@@ -88,7 +88,7 @@
     "requires": "|Fantastic Four (Set)|"
   },
   {
-    "name": "Carnage (Paint the Town Red)",
+    "name": "Carnage",
     "category": [
       "Paint the Town Red",
       "Mastermind"
@@ -96,7 +96,7 @@
     "requires": "|Paint the Town Red (Set)|"
   },
   {
-    "name": "Mysterio (Paint the Town Red)",
+    "name": "Mysterio",
     "category": [
       "Paint the Town Red",
       "Mastermind"
@@ -104,7 +104,7 @@
     "requires": "|Paint the Town Red (Set)|"
   },
   {
-    "name": "Dr. Strange (Villains)",
+    "name": "Dr. Strange",
     "category": [
       "Villains",
       "Mastermind"
@@ -112,7 +112,7 @@
     "requires": "|Villains (Set)|"
   },
   {
-    "name": "Nick Fury (Villains)",
+    "name": "Nick Fury ",
     "category": [
       "Villains",
       "Mastermind"
@@ -120,7 +120,7 @@
     "requires": "|Villains (Set)|"
   },
   {
-    "name": "Odin (Villains)",
+    "name": "Odin",
     "category": [
       "Villains",
       "Mastermind"
@@ -128,7 +128,7 @@
     "requires": "|Villains (Set)|"
   },
   {
-    "name": "Professor X (Villains)",
+    "name": "Professor X",
     "category": [
       "Villains",
       "Mastermind"
@@ -136,7 +136,7 @@
     "requires": "|Villains (Set)|"
   },
   {
-    "name": "Supreme Intelligence of the Kree (Guardians of the Galaxy)",
+    "name": "Supreme Intelligence of the Kree",
     "category": [
       "Guardians of the Galaxy",
       "Mastermind"
@@ -152,7 +152,7 @@
     "requires": "|Guardians of the Galaxy (Set)|"
   },
   {
-    "name": "Uru-Enchanted Iron Man (Fear Itself)",
+    "name": "Uru-Enchanted Iron Man ",
     "category": [
       "Fear Itself",
       "Mastermind"
@@ -160,7 +160,7 @@
     "requires": "|Fear Itself (Set)|"
   },
   {
-    "name": "Madelyne Prior, Goblin Queen (Secret Wars, Volume 1)",
+    "name": "Madelyne Prior, Goblin Queen",
     "category": [
       "Secret Wars Volume 1",
       "Mastermind"
@@ -168,7 +168,7 @@
     "requires": "|Secret Wars, Volume 1 (Set)|"
   },
   {
-    "name": "Nimrod, Super Sentinel (Secret Wars, Volume 1)",
+    "name": "Nimrod, Super Sentinel",
     "category": [
       "Secret Wars Volume 1",
       "Mastermind"
@@ -176,7 +176,7 @@
     "requires": "|Secret Wars, Volume 1 (Set)|"
   },
   {
-    "name": "Wasteland Hulk (Secret Wars, Volume 1)",
+    "name": "Wasteland Hulk",
     "category": [
       "Secret Wars Volume 1",
       "Mastermind"
@@ -184,7 +184,7 @@
     "requires": "|Secret Wars, Volume 1 (Set)|"
   },
   {
-    "name": "Zombie Green Goblin (Secret Wars, Volume 1)",
+    "name": "Zombie Green Goblin ",
     "category": [
       "Secret Wars Volume 1",
       "Mastermind"
@@ -192,7 +192,7 @@
     "requires": "|Secret Wars, Volume 1 (Set)|"
   },
   {
-    "name": "Immortal Emperor Zheng-Zhu (Secret Wars, Volume 2)",
+    "name": "Immortal Emperor Zheng-Zhu",
     "category": [
       "Secret Wars Volume 2",
       "Mastermind"
@@ -200,7 +200,7 @@
     "requires": "|Secret Wars, Volume 2 (Set)|"
   },
   {
-    "name": "King Hyperion (Secret Wars, Volume 2)",
+    "name": "King Hyperion",
     "category": [
       "Secret Wars Volume 2",
       "Mastermind"
@@ -208,7 +208,7 @@
     "requires": "|Secret Wars, Volume 2 (Set)|"
   },
   {
-    "name": "Shiklah, the Demon Bride (Secret Wars, Volume 2)",
+    "name": "Shiklah, the Demon Bride",
     "category": [
       "Secret Wars Volume 2",
       "Mastermind"
@@ -216,7 +216,7 @@
     "requires": "|Secret Wars, Volume 2 (Set)|"
   },
   {
-    "name": "Spider-Queen (Secret Wars, Volume 2)",
+    "name": "Spider-Queen",
     "category": [
       "Secret Wars Volume 2",
       "Mastermind"
@@ -224,7 +224,7 @@
     "requires": "|Secret Wars, Volume 2 (Set)|"
   },
   {
-    "name": "Arnim Zola (Captain America 75th Anniversary)",
+    "name": "Arnim Zola",
     "category": [
       "Captain America 75th Anniversary",
       "Mastermind"
@@ -232,7 +232,7 @@
     "requires": "|Captain America 75th Anniversary (Set)|"
   },
   {
-    "name": "Baron Heinrich Zemo (Captain America 75th Anniversary)",
+    "name": "Baron Heinrich Zemo",
     "category": [
       "Captain America 75th Anniversary",
       "Mastermind"
@@ -240,7 +240,7 @@
     "requires": "|Captain America 75th Anniversary (Set)|"
   },
   {
-    "name": "Authoritarian Iron Man (Civil War)",
+    "name": "Authoritarian Iron Man",
     "category": [
       "Civil War",
       "Mastermind"
@@ -248,7 +248,7 @@
     "requires": "|Civil War (Set)|"
   },
   {
-    "name": "Baron Helmut Zemo (Civil War)",
+    "name": "Baron Helmut Zemo",
     "category": [
       "Civil War",
       "Mastermind"
@@ -256,7 +256,7 @@
     "requires": "|Civil War (Set)|"
   },
   {
-    "name": "Maria Hill, Director of S.H.I.E.L.D. (Civil War)",
+    "name": "Maria Hill, Director of S.H.I.E.L.D.",
     "category": [
       "Civil War",
       "Mastermind"
@@ -264,7 +264,7 @@
     "requires": "|Civil War (Set)|"
   },
   {
-    "name": "Misty Knight (Civil War)",
+    "name": "Misty Knight",
     "category": [
       "Civil War",
       "Mastermind"
@@ -272,7 +272,7 @@
     "requires": "|Civil War (Set)|"
   },
   {
-    "name": "Ragnarok (Civil War)",
+    "name": "Ragnarok",
     "category": [
       "Civil War",
       "Mastermind"
@@ -280,7 +280,7 @@
     "requires": "|Civil War (Set)|"
   },
   {
-    "name": "Evil Deadpool (Deadpool)",
+    "name": "Evil Deadpool",
     "category": [
       "Deadpool",
       "Mastermind"
@@ -288,7 +288,7 @@
     "requires": "|Deadpool (Set)|"
   },
   {
-    "name": "Macho Gomez (Deadpool)",
+    "name": "Macho Gomez",
     "category": [
       "Deadpool",
       "Mastermind"
@@ -296,7 +296,7 @@
     "requires": "|Deadpool (Set)|"
   },
   {
-    "name": "Charles Xavier, Professor of Crime (Noir)",
+    "name": "Charles Xavier, Professor of Crime",
     "category": [
       "Noir",
       "Mastermind"
@@ -304,7 +304,7 @@
     "requires": "|Noir (Set)|"
   },
   {
-    "name": "The Goblin, Underworld Boss (Noir)",
+    "name": "The Goblin, Underworld Boss",
     "category": [
       "Noir",
       "Mastermind"
@@ -312,7 +312,7 @@
     "requires": "|Noir (Set)|"
   },
   {
-    "name": "Arcade (X-Men)",
+    "name": "Arcade",
     "category": [
       "X-Men",
       "Mastermind"
@@ -320,7 +320,7 @@
     "requires": "|X-Men (Set)|"
   },
   {
-    "name": "Dark Phoenix (X-Men)",
+    "name": "Dark Phoenix",
     "category": [
       "X-Men",
       "Mastermind"
@@ -328,7 +328,7 @@
     "requires": "|X-Men (Set)|"
   },
   {
-    "name": "Deathbird (X-Men)",
+    "name": "Deathbird",
     "category": [
       "X-Men",
       "Mastermind"
@@ -336,7 +336,7 @@
     "requires": "|X-Men (Set)|"
   },
   {
-    "name": "Mojo (X-Men)",
+    "name": "Mojo",
     "category": [
       "X-Men",
       "Mastermind"
@@ -344,7 +344,7 @@
     "requires": "|X-Men (Set)|"
   },
   {
-    "name": "Onslaught (X-Men)",
+    "name": "Onslaught",
     "category": [
       "X-Men",
       "Mastermind"
@@ -352,7 +352,7 @@
     "requires": "|X-Men (Set)|"
   },
   {
-    "name": "Shadow King (X-Men)",
+    "name": "Shadow King",
     "category": [
       "X-Men",
       "Mastermind"
@@ -360,7 +360,7 @@
     "requires": "|X-Men (Set)|"
   },
   {
-    "name": "Adrian Toomes (Spider-Man Homecoming)",
+    "name": "Adrian Toomes",
     "category": [
       "Spider-Man Homecoming",
       "Mastermind"
@@ -368,7 +368,7 @@
     "requires": "|Spider-Man Homecoming (Set)|"
   },
   {
-    "name": "Vulture (Spider-Man Homecoming)",
+    "name": "Vulture",
     "category": [
       "Spider-Man Homecoming",
       "Mastermind"
@@ -376,7 +376,7 @@
     "requires": "|Spider-Man Homecoming (Set)|"
   },
   {
-    "name": "Fin Fang Foom (Champions)",
+    "name": "Fin Fang Foom",
     "category": [
       "Champions",
       "Mastermind"
@@ -384,7 +384,7 @@
     "requires": "|Champions (Set)|"
   },
   {
-    "name": "Pagliacci (Champions)",
+    "name": "Pagliacci",
     "category": [
       "Champions",
       "Mastermind"
@@ -392,7 +392,7 @@
     "requires": "|Champions (Set)|"
   },
   {
-    "name": "General “Thunderbolt” Ross (World War Hulk)",
+    "name": "General “Thunderbolt” Ross",
     "category": [
       "World War Hulk",
       "Mastermind"
@@ -400,7 +400,7 @@
     "requires": "|World War Hulk (Set)|"
   },
   {
-    "name": "Illuminati, Secret Society (World War Hulk)",
+    "name": "Illuminati, Secret Society",
     "category": [
       "World War Hulk",
       "Mastermind"
@@ -408,7 +408,7 @@
     "requires": "|World War Hulk (Set)|"
   },
   {
-    "name": "King Hulk, Sakaarson (World War Hulk)",
+    "name": "King Hulk, Sakaarson",
     "category": [
       "World War Hulk",
       "Mastermind"
@@ -416,7 +416,7 @@
     "requires": "|World War Hulk (Set)|"
   },
   {
-    "name": "M.O.D.O.K. (World War Hulk)",
+    "name": "M.O.D.O.K.",
     "category": [
       "World War Hulk",
       "Mastermind"
@@ -424,7 +424,7 @@
     "requires": "|World War Hulk (Set)|"
   },
   {
-    "name": "The Red King (World War Hulk)",
+    "name": "The Red King",
     "category": [
       "World War Hulk",
       "Mastermind"
@@ -432,7 +432,7 @@
     "requires": "|World War Hulk (Set)|"
   },
   {
-    "name": "The Sentry (World War Hulk)",
+    "name": "The Sentry",
     "category": [
       "World War Hulk",
       "Mastermind"
@@ -440,7 +440,7 @@
     "requires": "|World War Hulk (Set)|"
   },
   {
-    "name": "Iron Monger (Marvel Studios, Phase 1)",
+    "name": "Iron Monger",
     "category": [
       "Marvel Studios Phase 1",
       "Mastermind"
@@ -448,7 +448,7 @@
     "requires": "|Marvel Studios, Phase 1 (Set)|"
   },
   {
-    "name": "Morgan Le Fay (Ant-Man)",
+    "name": "Morgan Le Fay",
     "category": [
       "Ant-Man",
       "Mastermind"
@@ -456,7 +456,7 @@
     "requires": "|Ant-Man (Set)|"
   },
   {
-    "name": "Ultron (Ant-Man)",
+    "name": "Ultron",
     "category": [
       "Ant-Man",
       "Mastermind"
@@ -464,7 +464,7 @@
     "requires": "|Ant-Man (Set)|"
   },
   {
-    "name": "Hybrid (Venom)",
+    "name": "Hybrid",
     "category": [
       "Venom",
       "Mastermind"
@@ -472,7 +472,7 @@
     "requires": "|Venom (Set)|"
   },
   {
-    "name": "Poison Thanos (Venom)",
+    "name": "Poison Thanos",
     "category": [
       "Venom",
       "Mastermind"
@@ -480,7 +480,7 @@
     "requires": "|Venom (Set)|"
   },
   {
-    "name": "J. Jonah Jameson (Dimensions)",
+    "name": "J. Jonah Jameson",
     "category": [
       "Dimensions",
       "Mastermind"
@@ -488,7 +488,7 @@
     "requires": "|Dimensions (Set)|"
   },
   {
-    "name": "Grim Reaper (Revelations)",
+    "name": "Grim Reaper",
     "category": [
       "Revelations",
       "Mastermind"
@@ -496,7 +496,7 @@
     "requires": "|Revelations (Set)|"
   },
   {
-    "name": "The Hood (Revelations)",
+    "name": "The Hood",
     "category": [
       "Revelations",
       "Mastermind"
@@ -504,7 +504,7 @@
     "requires": "|Revelations (Set)|"
   },
   {
-    "name": "Mandarin (Revelations)",
+    "name": "Mandarin",
     "category": [
       "Revelations",
       "Mastermind"
@@ -512,7 +512,7 @@
     "requires": "|Revelations (Set)|"
   },
   {
-    "name": "Hydra High Council (S.H.I.E.L.D.)",
+    "name": "Hydra High Council",
     "category": [
       "S.H.I.E.L.D.",
       "Mastermind"
@@ -520,7 +520,7 @@
     "requires": "|S.H.I.E.L.D. (Set)|"
   },
   {
-    "name": "Hydra Super-Adaptoid (S.H.I.E.L.D.)",
+    "name": "Hydra Super-Adaptoid",
     "category": [
       "S.H.I.E.L.D.",
       "Mastermind"
@@ -528,7 +528,7 @@
     "requires": "|S.H.I.E.L.D. (Set)|"
   },
   {
-    "name": "Hela, Goddess of Death (Heroes of Asgard)",
+    "name": "Hela, Goddess of Death",
     "category": [
       "Heroes of Asgard",
       "Mastermind"
@@ -536,7 +536,7 @@
     "requires": "|Heroes of Asgard (Set)|"
   },
   {
-    "name": "Malekith the Accursed (Heroes of Asgard)",
+    "name": "Malekith the Accursed",
     "category": [
       "Heroes of Asgard",
       "Mastermind"
@@ -544,7 +544,7 @@
     "requires": "|Heroes of Asgard (Set)|"
   },
   {
-    "name": "Belasco, Demon Lord of Limbo (The New Mutants)",
+    "name": "Belasco, Demon Lord of Limbo",
     "category": [
       "The New Mutants",
       "Mastermind"
@@ -552,7 +552,7 @@
     "requires": "|The New Mutants (Set)|"
   },
   {
-    "name": "Emma Frost, The White Queen (The New Mutants)",
+    "name": "Emma Frost, The White Queen",
     "category": [
       "The New Mutants",
       "Mastermind"
@@ -560,7 +560,7 @@
     "requires": "|The New Mutants (Set)|"
   },
   {
-    "name": "The Beyonder (Into the Cosmos)",
+    "name": "The Beyonder",
     "category": [
       "Into the Cosmos",
       "Mastermind"
@@ -568,7 +568,7 @@
     "requires": "|Into the Cosmos (Set)|"
   },
   {
-    "name": "The Grandmaster (Into the Cosmos)",
+    "name": "The Grandmaster",
     "category": [
       "Into the Cosmos",
       "Mastermind"
@@ -576,7 +576,7 @@
     "requires": "|Into the Cosmos (Set)|"
   },
   {
-    "name": "Magus (Into the Cosmos)",
+    "name": "Magus",
     "category": [
       "Into the Cosmos",
       "Mastermind"
@@ -584,7 +584,7 @@
     "requires": "|Into the Cosmos (Set)|"
   },
   {
-    "name": "Emperor Vulcan of the Shi'ar (Realm of Kings)",
+    "name": "Emperor Vulcan of the Shi'ar",
     "category": [
       "Realm of Kings",
       "Mastermind"
@@ -592,7 +592,7 @@
     "requires": "|Realm of Kings (Set)|"
   },
   {
-    "name": "Maximus the Mad (Realm of Kings)",
+    "name": "Maximus the Mad",
     "category": [
       "Realm of Kings",
       "Mastermind"
@@ -600,7 +600,7 @@
     "requires": "|Realm of Kings (Set)|"
   },
   {
-    "name": "Annihilus (Annihilation)",
+    "name": "Annihilus",
     "category": [
       "Annihilation",
       "Mastermind"
@@ -608,7 +608,7 @@
     "requires": "|Annihilation (Set)|"
   },
   {
-    "name": "Kang the Conqueror (Annihilation)",
+    "name": "Kang the Conqueror",
     "category": [
       "Annihilation",
       "Mastermind"
@@ -616,7 +616,7 @@
     "requires": "|Annihilation (Set)|"
   },
   {
-    "name": "Bastion, Fused Sentinel (Messiah Complex)",
+    "name": "Bastion, Fused Sentinel",
     "category": [
       "Messiah Complex",
       "Mastermind"
@@ -624,7 +624,7 @@
     "requires": "|Messiah Complex (Set)|"
   },
   {
-    "name": "Exodus (Messiah Complex)",
+    "name": "Exodus",
     "category": [
       "Messiah Complex",
       "Mastermind"
@@ -632,7 +632,7 @@
     "requires": "|Messiah Complex (Set)|"
   },
   {
-    "name": "Lady Deathstrike (Messiah Complex)",
+    "name": "Lady Deathstrike",
     "category": [
       "Messiah Complex",
       "Mastermind"
@@ -640,7 +640,7 @@
     "requires": "|Messiah Complex (Set)|"
   },
   {
-    "name": "Dormammu (Doctor Strange and the Shadows of Nightmare)",
+    "name": "Dormammu",
     "category": [
       "Doctor Strange and the Shadows of Nightmare",
       "Mastermind"
@@ -648,7 +648,7 @@
     "requires": "|Doctor Strange and the Shadows of Nightmare (Set)|"
   },
   {
-    "name": "Nightmare (Doctor Strange and the Shadows of Nightmare)",
+    "name": "Nightmare",
     "category": [
       "Doctor Strange and the Shadows of Nightmare",
       "Mastermind"
@@ -656,7 +656,7 @@
     "requires": "|Doctor Strange and the Shadows of Nightmare (Set)|"
   },
   {
-    "name": "Ego, the Living Planet (Marvel Studios' Guardians of the Galaxy)",
+    "name": "Ego, the Living Planet",
     "category": [
       "Marvel Studios' Guardians of the Galaxy",
       "Mastermind"
@@ -664,7 +664,7 @@
     "requires": "|Marvel Studios' Guardians of the Galaxy (Set)|"
   },
   {
-    "name": "Ronan the Accuser (Marvel Studios' Guardians of the Galaxy)",
+    "name": "Ronan the Accuser",
     "category": [
       "Marvel Studios' Guardians of the Galaxy",
       "Mastermind"
@@ -672,7 +672,7 @@
     "requires": "|Marvel Studios' Guardians of the Galaxy (Set)|"
   },
   {
-    "name": "Killmonger (Black Panther)",
+    "name": "Killmonger",
     "category": [
       "Black Panther",
       "Mastermind"
@@ -680,7 +680,7 @@
     "requires": "|Black Panther (Set)|"
   },
   {
-    "name": "Klaw (Black Panther)",
+    "name": "Klaw",
     "category": [
       "Black Panther",
       "Mastermind"
@@ -688,7 +688,7 @@
     "requires": "|Black Panther (Set)|"
   },
   {
-    "name": "Indestructible Man (Black Widow)",
+    "name": "Indestructible Man",
     "category": [
       "Black Widow",
       "Mastermind"
@@ -696,7 +696,7 @@
     "requires": "|Black Widow (Set)|"
   },
   {
-    "name": "Taskmaster (Black Widow)",
+    "name": "Taskmaster",
     "category": [
       "Black Widow",
       "Mastermind"
@@ -704,7 +704,7 @@
     "requires": "|Black Widow (Set)|"
   },
   {
-    "name": "Ebony Maw (Marvel Studios' The Infinity Saga)",
+    "name": "Ebony Maw",
     "category": [
       "Marvel Studios' The Infinity Saga",
       "Mastermind"
@@ -712,7 +712,7 @@
     "requires": "|Marvel Studios' The Infinity Saga (Set)|"
   },
   {
-    "name": "Thanos (Marvel Studios' The Infinity Saga)",
+    "name": "Thanos (Infinity Saga)",
     "category": [
       "Marvel Studios' The Infinity Saga",
       "Mastermind"
@@ -720,7 +720,7 @@
     "requires": "|Marvel Studios' The Infinity Saga (Set)|"
   },
   {
-    "name": "Lilith, Mother of Demons (Midnight Sons)",
+    "name": "Lilith, Mother of Demons",
     "category": [
       "Midnight Sons",
       "Mastermind"
@@ -728,7 +728,7 @@
     "requires": "|Midnight Sons (Set)|"
   },
   {
-    "name": "Zarathos (Midnight Sons)",
+    "name": "Zarathos",
     "category": [
       "Midnight Sons",
       "Mastermind"
@@ -736,7 +736,7 @@
     "requires": "|Midnight Sons (Set)|"
   },
   {
-    "name": "Hank Pym, Yellowjacket (Marvel Studios' What If...?)",
+    "name": "Hank Pym, Yellowjacket",
     "category": [
       "Marvel Studios' What If...?",
       "Mastermind"
@@ -744,7 +744,7 @@
     "requires": "|Marvel Studios' What If...? (Set)|"
   },
   {
-    "name": "Killmonger, The Betrayer (Marvel Studios' What If...?)",
+    "name": "Killmonger, The Betrayer",
     "category": [
       "Marvel Studios' What If...?",
       "Mastermind"
@@ -752,7 +752,7 @@
     "requires": "|Marvel Studios' What If...? (Set)|"
   },
   {
-    "name": "Ultron Infinity (Marvel Studios' What If...?)",
+    "name": "Ultron Infinity",
     "category": [
       "Marvel Studios' What If...?",
       "Mastermind"
@@ -760,7 +760,7 @@
     "requires": "|Marvel Studios' What If...? (Set)|"
   },
   {
-    "name": "Zombie Scarlet Witch (Marvel Studios' What If...?)",
+    "name": "Zombie Scarlet Witch",
     "category": [
       "Marvel Studios' What If...?",
       "Mastermind"
@@ -768,7 +768,7 @@
     "requires": "|Marvel Studios' What If...? (Set)|"
   },
   {
-    "name": "Darren Cross (Marvel Studios' Ant-Man and the Wasp)",
+    "name": "Darren Cross",
     "category": [
       "Marvel Studios' Ant-Man and the Wasp",
       "Mastermind"
@@ -776,7 +776,7 @@
     "requires": "|Marvel Studios' Ant-Man and the Wasp (Set)|"
   },
   {
-    "name": "Ghost, Master Thief (Marvel Studios' Ant-Man and the Wasp)",
+    "name": "Ghost, Master Thief",
     "category": [
       "Marvel Studios' Ant-Man and the Wasp",
       "Mastermind"
@@ -784,7 +784,7 @@
     "requires": "|Marvel Studios' Ant-Man and the Wasp (Set)|"
   },
   {
-    "name": "Kang, Quantum Conqueror (Marvel Studios' Ant-Man and the Wasp)",
+    "name": "Kang, Quantum Conqueror",
     "category": [
       "Marvel Studios' Ant-Man and the Wasp",
       "Mastermind"
@@ -792,7 +792,7 @@
     "requires": "|Marvel Studios' Ant-Man and the Wasp (Set)|"
   },
   {
-    "name": "Alchemax Executives (Marvel 2099)",
+    "name": "Alchemax Executives",
     "category": [
       "Marvel 2099",
       "Mastermind"
@@ -800,7 +800,7 @@
     "requires": "|Marvel 2099 (Set)|"
   },
   {
-    "name": "Sinister Six 2099 (Marvel 2099)",
+    "name": "Sinister Six 2099",
     "category": [
       "Marvel 2099",
       "Mastermind"
@@ -808,7 +808,7 @@
     "requires": "|Marvel 2099 (Set)|"
   },
   {
-    "name": "Omega Red (Weapon X)",
+    "name": "Omega Red",
     "category": [
       "Weapon X",
       "Mastermind"
@@ -816,7 +816,7 @@
     "requires": "|Weapon X (Set)|"
   },
   {
-    "name": "Romulus (Weapon X)",
+    "name": "Romulus",
     "category": [
       "Weapon X",
       "Mastermind"
@@ -824,7 +824,7 @@
     "requires": "|Weapon X (Set)|"
   },
   {
-    "name": "Sabretooth (Weapon X)",
+    "name": "Sabretooth",
     "category": [
       "Weapon X",
       "Mastermind"
@@ -838,5 +838,3437 @@
       "(Victory)"
     ],
     "requires": "|Space Stone| AND |Reality Stone| AND |Power Stone| AND |Soul Stone| AND |Mind Stone| AND |Time Stone|"
+  },
+  {
+    "name": "Dr. Doom Tactic 1",
+    "category": [
+      "Core",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Core (Set)|"
+  },
+  {
+    "name": "Dr. Doom Tactic 2",
+    "category": [
+      "Core",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Core (Set)|"
+  },
+  {
+    "name": "Dr. Doom Tactic 3",
+    "category": [
+      "Core",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Core (Set)|"
+  },
+  {
+    "name": "Dr. Doom Tactic 4",
+    "category": [
+      "Core",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Core (Set)|"
+  },
+  {
+    "name": "Loki (Core) Tactic 1",
+    "category": [
+      "Core",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Core (Set)|"
+  },
+  {
+    "name": "Loki (Core) Tactic 2",
+    "category": [
+      "Core",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Core (Set)|"
+  },
+  {
+    "name": "Loki (Core) Tactic 3",
+    "category": [
+      "Core",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Core (Set)|"
+  },
+  {
+    "name": "Loki (Core) Tactic 4",
+    "category": [
+      "Core",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Core (Set)|"
+  },
+  {
+    "name": "Magneto Tactic 1",
+    "category": [
+      "Core",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Core (Set)|"
+  },
+  {
+    "name": "Magneto Tactic 2",
+    "category": [
+      "Core",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Core (Set)|"
+  },
+  {
+    "name": "Magneto Tactic 3",
+    "category": [
+      "Core",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Core (Set)|"
+  },
+  {
+    "name": "Magneto Tactic 4",
+    "category": [
+      "Core",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Core (Set)|"
+  },
+  {
+    "name": "Red Skull (Core) Tactic 1",
+    "category": [
+      "Core",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Core (Set)|"
+  },
+  {
+    "name": "Red Skull (Core) Tactic 2",
+    "category": [
+      "Core",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Core (Set)|"
+  },
+  {
+    "name": "Red Skull (Core) Tactic 3",
+    "category": [
+      "Core",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Core (Set)|"
+  },
+  {
+    "name": "Red Skull (Core) Tactic 4",
+    "category": [
+      "Core",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Core (Set)|"
+  },
+  {
+    "name": "Apocalypse Tactic 1",
+    "category": [
+      "Dark City",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Dark City (Set)|"
+  },
+  {
+    "name": "Apocalypse Tactic 2",
+    "category": [
+      "Dark City",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Dark City (Set)|"
+  },
+  {
+    "name": "Apocalypse Tactic 3",
+    "category": [
+      "Dark City",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Dark City (Set)|"
+  },
+  {
+    "name": "Apocalypse Tactic 4",
+    "category": [
+      "Dark City",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Dark City (Set)|"
+  },
+  {
+    "name": "Kingpin Tactic 1",
+    "category": [
+      "Dark City",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Dark City (Set)|"
+  },
+  {
+    "name": "Kingpin Tactic 2",
+    "category": [
+      "Dark City",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Dark City (Set)|"
+  },
+  {
+    "name": "Kingpin Tactic 3",
+    "category": [
+      "Dark City",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Dark City (Set)|"
+  },
+  {
+    "name": "Kingpin Tactic 4",
+    "category": [
+      "Dark City",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Dark City (Set)|"
+  },
+  {
+    "name": "Mephisto Tactic 1",
+    "category": [
+      "Dark City",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Dark City (Set)|"
+  },
+  {
+    "name": "Mephisto Tactic 2",
+    "category": [
+      "Dark City",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Dark City (Set)|"
+  },
+  {
+    "name": "Mephisto Tactic 3",
+    "category": [
+      "Dark City",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Dark City (Set)|"
+  },
+  {
+    "name": "Mephisto Tactic 4",
+    "category": [
+      "Dark City",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Dark City (Set)|"
+  },
+  {
+    "name": "Mr. Sinister Tactic 1",
+    "category": [
+      "Dark City",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Dark City (Set)|"
+  },
+  {
+    "name": "Mr. Sinister Tactic 2",
+    "category": [
+      "Dark City",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Dark City (Set)|"
+  },
+  {
+    "name": "Mr. Sinister Tactic 3",
+    "category": [
+      "Dark City",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Dark City (Set)|"
+  },
+  {
+    "name": "Mr. Sinister Tactic 4",
+    "category": [
+      "Dark City",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Dark City (Set)|"
+  },
+  {
+    "name": "Stryfe Tactic 1",
+    "category": [
+      "Dark City",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Dark City (Set)|"
+  },
+  {
+    "name": "Stryfe Tactic 2",
+    "category": [
+      "Dark City",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Dark City (Set)|"
+  },
+  {
+    "name": "Stryfe Tactic 3",
+    "category": [
+      "Dark City",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Dark City (Set)|"
+  },
+  {
+    "name": "Stryfe Tactic 4",
+    "category": [
+      "Dark City",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Dark City (Set)|"
+  },
+  {
+    "name": "Galactus Tactic 1",
+    "category": [
+      "Fantastic Four",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Fantastic Four (Set)|"
+  },
+  {
+    "name": "Galactus Tactic 2",
+    "category": [
+      "Fantastic Four",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Fantastic Four (Set)|"
+  },
+  {
+    "name": "Galactus Tactic 3",
+    "category": [
+      "Fantastic Four",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Fantastic Four (Set)|"
+  },
+  {
+    "name": "Galactus Tactic 4",
+    "category": [
+      "Fantastic Four",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Fantastic Four (Set)|"
+  },
+  {
+    "name": "Mole Man Tactic 1",
+    "category": [
+      "Fantastic Four",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Fantastic Four (Set)|"
+  },
+  {
+    "name": "Mole Man Tactic 2",
+    "category": [
+      "Fantastic Four",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Fantastic Four (Set)|"
+  },
+  {
+    "name": "Mole Man Tactic 3",
+    "category": [
+      "Fantastic Four",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Fantastic Four (Set)|"
+  },
+  {
+    "name": "Mole Man Tactic 4",
+    "category": [
+      "Fantastic Four",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Fantastic Four (Set)|"
+  },
+  {
+    "name": "Carnage Tactic 1",
+    "category": [
+      "Paint the Town Red",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Paint the Town Red (Set)|"
+  },
+  {
+    "name": "Carnage Tactic 2",
+    "category": [
+      "Paint the Town Red",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Paint the Town Red (Set)|"
+  },
+  {
+    "name": "Carnage Tactic 3",
+    "category": [
+      "Paint the Town Red",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Paint the Town Red (Set)|"
+  },
+  {
+    "name": "Carnage Tactic 4",
+    "category": [
+      "Paint the Town Red",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Paint the Town Red (Set)|"
+  },
+  {
+    "name": "Mysterio Tactic 1",
+    "category": [
+      "Paint the Town Red",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Paint the Town Red (Set)|"
+  },
+  {
+    "name": "Mysterio Tactic 2",
+    "category": [
+      "Paint the Town Red",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Paint the Town Red (Set)|"
+  },
+  {
+    "name": "Mysterio Tactic 3",
+    "category": [
+      "Paint the Town Red",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Paint the Town Red (Set)|"
+  },
+  {
+    "name": "Mysterio Tactic 4",
+    "category": [
+      "Paint the Town Red",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Paint the Town Red (Set)|"
+  },
+  {
+    "name": "Dr. Strange Tactic 1",
+    "category": [
+      "Villains",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Villains (Set)|"
+  },
+  {
+    "name": "Dr. Strange Tactic 2",
+    "category": [
+      "Villains",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Villains (Set)|"
+  },
+  {
+    "name": "Dr. Strange Tactic 3",
+    "category": [
+      "Villains",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Villains (Set)|"
+  },
+  {
+    "name": "Dr. Strange Tactic 4",
+    "category": [
+      "Villains",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Villains (Set)|"
+  },
+  {
+    "name": "Nick Fury Tactic 1",
+    "category": [
+      "Villains",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Villains (Set)|"
+  },
+  {
+    "name": "Nick Fury Tactic 2",
+    "category": [
+      "Villains",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Villains (Set)|"
+  },
+  {
+    "name": "Nick Fury Tactic 3",
+    "category": [
+      "Villains",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Villains (Set)|"
+  },
+  {
+    "name": "Nick Fury Tactic 4",
+    "category": [
+      "Villains",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Villains (Set)|"
+  },
+  {
+    "name": "Odin Tactic 1",
+    "category": [
+      "Villains",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Villains (Set)|"
+  },
+  {
+    "name": "Odin Tactic 2",
+    "category": [
+      "Villains",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Villains (Set)|"
+  },
+  {
+    "name": "Odin Tactic 3",
+    "category": [
+      "Villains",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Villains (Set)|"
+  },
+  {
+    "name": "Odin Tactic 4",
+    "category": [
+      "Villains",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Villains (Set)|"
+  },
+  {
+    "name": "Professor X Tactic 1",
+    "category": [
+      "Villains",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Villains (Set)|"
+  },
+  {
+    "name": "Professor X Tactic 2",
+    "category": [
+      "Villains",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Villains (Set)|"
+  },
+  {
+    "name": "Professor X Tactic 3",
+    "category": [
+      "Villains",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Villains (Set)|"
+  },
+  {
+    "name": "Professor X Tactic 4",
+    "category": [
+      "Villains",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Villains (Set)|"
+  },
+  {
+    "name": "Supreme Intelligence of the Kree Tactic 1",
+    "category": [
+      "Guardians of the Galaxy",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Guardians of the Galaxy (Set)|"
+  },
+  {
+    "name": "Supreme Intelligence of the Kree Tactic 2",
+    "category": [
+      "Guardians of the Galaxy",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Guardians of the Galaxy (Set)|"
+  },
+  {
+    "name": "Supreme Intelligence of the Kree Tactic 3",
+    "category": [
+      "Guardians of the Galaxy",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Guardians of the Galaxy (Set)|"
+  },
+  {
+    "name": "Supreme Intelligence of the Kree Tactic 4",
+    "category": [
+      "Guardians of the Galaxy",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Guardians of the Galaxy (Set)|"
+  },
+  {
+    "name": "Thanos (Guardians of the Galaxy) Tactic 1",
+    "category": [
+      "Guardians of the Galaxy",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Guardians of the Galaxy (Set)|"
+  },
+  {
+    "name": "Thanos (Guardians of the Galaxy) Tactic 2",
+    "category": [
+      "Guardians of the Galaxy",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Guardians of the Galaxy (Set)|"
+  },
+  {
+    "name": "Thanos (Guardians of the Galaxy) Tactic 3",
+    "category": [
+      "Guardians of the Galaxy",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Guardians of the Galaxy (Set)|"
+  },
+  {
+    "name": "Thanos (Guardians of the Galaxy) Tactic 4",
+    "category": [
+      "Guardians of the Galaxy",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Guardians of the Galaxy (Set)|"
+  },
+  {
+    "name": "Uru-Enchanted Iron Man Tactic 1",
+    "category": [
+      "Fear Itself",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Fear Itself (Set)|"
+  },
+  {
+    "name": "Uru-Enchanted Iron Man Tactic 2",
+    "category": [
+      "Fear Itself",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Fear Itself (Set)|"
+  },
+  {
+    "name": "Uru-Enchanted Iron Man Tactic 3",
+    "category": [
+      "Fear Itself",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Fear Itself (Set)|"
+  },
+  {
+    "name": "Uru-Enchanted Iron Man Tactic 4",
+    "category": [
+      "Fear Itself",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Fear Itself (Set)|"
+  },
+  {
+    "name": "Madelyne Pryor, Goblin Queen Tactic 1",
+    "category": [
+      "Secret Wars Volume 1",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Secret Wars, Volume 1 (Set)|"
+  },
+  {
+    "name": "Madelyne Pryor, Goblin Queen Tactic 2",
+    "category": [
+      "Secret Wars Volume 1",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Secret Wars, Volume 1 (Set)|"
+  },
+  {
+    "name": "Madelyne Pryor, Goblin Queen Tactic 3",
+    "category": [
+      "Secret Wars Volume 1",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Secret Wars, Volume 1 (Set)|"
+  },
+  {
+    "name": "Madelyne Pryor, Goblin Queen Tactic 4",
+    "category": [
+      "Secret Wars Volume 1",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Secret Wars, Volume 1 (Set)|"
+  },
+  {
+    "name": "Nimrod, Super Sentinel Tactic 1",
+    "category": [
+      "Secret Wars Volume 1",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Secret Wars, Volume 1 (Set)|"
+  },
+  {
+    "name": "Nimrod, Super Sentinel Tactic 2",
+    "category": [
+      "Secret Wars Volume 1",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Secret Wars, Volume 1 (Set)|"
+  },
+  {
+    "name": "Nimrod, Super Sentinel Tactic 3",
+    "category": [
+      "Secret Wars Volume 1",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Secret Wars, Volume 1 (Set)|"
+  },
+  {
+    "name": "Nimrod, Super Sentinel Tactic 4",
+    "category": [
+      "Secret Wars Volume 1",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Secret Wars, Volume 1 (Set)|"
+  },
+  {
+    "name": "Wasteland Hulk Tactic 1",
+    "category": [
+      "Secret Wars Volume 1",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Secret Wars, Volume 1 (Set)|"
+  },
+  {
+    "name": "Wasteland Hulk Tactic 2",
+    "category": [
+      "Secret Wars Volume 1",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Secret Wars, Volume 1 (Set)|"
+  },
+  {
+    "name": "Wasteland Hulk Tactic 3",
+    "category": [
+      "Secret Wars Volume 1",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Secret Wars, Volume 1 (Set)|"
+  },
+  {
+    "name": "Wasteland Hulk Tactic 4",
+    "category": [
+      "Secret Wars Volume 1",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Secret Wars, Volume 1 (Set)|"
+  },
+  {
+    "name": "Zombie Green Goblin Tactic 1",
+    "category": [
+      "Secret Wars Volume 1",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Secret Wars, Volume 1 (Set)|"
+  },
+  {
+    "name": "Zombie Green Goblin Tactic 2",
+    "category": [
+      "Secret Wars Volume 1",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Secret Wars, Volume 1 (Set)|"
+  },
+  {
+    "name": "Zombie Green Goblin Tactic 3",
+    "category": [
+      "Secret Wars Volume 1",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Secret Wars, Volume 1 (Set)|"
+  },
+  {
+    "name": "Zombie Green Goblin Tactic 4",
+    "category": [
+      "Secret Wars Volume 1",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Secret Wars, Volume 1 (Set)|"
+  },
+  {
+    "name": "Immortal Emperor Zheng-Zhu Tactic 1",
+    "category": [
+      "Secret Wars Volume 2",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Secret Wars, Volume 2 (Set)|"
+  },
+  {
+    "name": "Immortal Emperor Zheng-Zhu Tactic 2",
+    "category": [
+      "Secret Wars Volume 2",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Secret Wars, Volume 2 (Set)|"
+  },
+  {
+    "name": "Immortal Emperor Zheng-Zhu Tactic 3",
+    "category": [
+      "Secret Wars Volume 2",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Secret Wars, Volume 2 (Set)|"
+  },
+  {
+    "name": "Immortal Emperor Zheng-Zhu Tactic 4",
+    "category": [
+      "Secret Wars Volume 2",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Secret Wars, Volume 2 (Set)|"
+  },
+  {
+    "name": "King Hyperion Tactic 1",
+    "category": [
+      "Secret Wars Volume 2",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Secret Wars, Volume 2 (Set)|"
+  },
+  {
+    "name": "King Hyperion Tactic 2",
+    "category": [
+      "Secret Wars Volume 2",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Secret Wars, Volume 2 (Set)|"
+  },
+  {
+    "name": "King Hyperion Tactic 3",
+    "category": [
+      "Secret Wars Volume 2",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Secret Wars, Volume 2 (Set)|"
+  },
+  {
+    "name": "King Hyperion Tactic 4",
+    "category": [
+      "Secret Wars Volume 2",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Secret Wars, Volume 2 (Set)|"
+  },
+  {
+    "name": "Shiklah, the Demon Bride Tactic 1",
+    "category": [
+      "Secret Wars Volume 2",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Secret Wars, Volume 2 (Set)|"
+  },
+  {
+    "name": "Shiklah, the Demon Bride Tactic 2",
+    "category": [
+      "Secret Wars Volume 2",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Secret Wars, Volume 2 (Set)|"
+  },
+  {
+    "name": "Shiklah, the Demon Bride Tactic 3",
+    "category": [
+      "Secret Wars Volume 2",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Secret Wars, Volume 2 (Set)|"
+  },
+  {
+    "name": "Shiklah, the Demon Bride Tactic 4",
+    "category": [
+      "Secret Wars Volume 2",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Secret Wars, Volume 2 (Set)|"
+  },
+  {
+    "name": "Spider-Queen Tactic 1",
+    "category": [
+      "Secret Wars Volume 2",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Secret Wars, Volume 2 (Set)|"
+  },
+  {
+    "name": "Spider-Queen Tactic 2",
+    "category": [
+      "Secret Wars Volume 2",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Secret Wars, Volume 2 (Set)|"
+  },
+  {
+    "name": "Spider-Queen Tactic 3",
+    "category": [
+      "Secret Wars Volume 2",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Secret Wars, Volume 2 (Set)|"
+  },
+  {
+    "name": "Spider-Queen Tactic 4",
+    "category": [
+      "Secret Wars Volume 2",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Secret Wars, Volume 2 (Set)|"
+  },
+  {
+    "name": "Arnim Zola Tactic 1",
+    "category": [
+      "Captain America 75th Anniversary",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Captain America 75th Anniversary (Set)|"
+  },
+  {
+    "name": "Arnim Zola Tactic 2",
+    "category": [
+      "Captain America 75th Anniversary",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Captain America 75th Anniversary (Set)|"
+  },
+  {
+    "name": "Arnim Zola Tactic 3",
+    "category": [
+      "Captain America 75th Anniversary",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Captain America 75th Anniversary (Set)|"
+  },
+  {
+    "name": "Arnim Zola Tactic 4",
+    "category": [
+      "Captain America 75th Anniversary",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Captain America 75th Anniversary (Set)|"
+  },
+  {
+    "name": "Baron Heinrich Zemo Tactic 1",
+    "category": [
+      "Captain America 75th Anniversary",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Captain America 75th Anniversary (Set)|"
+  },
+  {
+    "name": "Baron Heinrich Zemo Tactic 2",
+    "category": [
+      "Captain America 75th Anniversary",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Captain America 75th Anniversary (Set)|"
+  },
+  {
+    "name": "Baron Heinrich Zemo Tactic 3",
+    "category": [
+      "Captain America 75th Anniversary",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Captain America 75th Anniversary (Set)|"
+  },
+  {
+    "name": "Baron Heinrich Zemo Tactic 4",
+    "category": [
+      "Captain America 75th Anniversary",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Captain America 75th Anniversary (Set)|"
+  },
+  {
+    "name": "Authoritarian Iron Man Tactic 1",
+    "category": [
+      "Civil War",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Civil War (Set)|"
+  },
+  {
+    "name": "Authoritarian Iron Man Tactic 2",
+    "category": [
+      "Civil War",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Civil War (Set)|"
+  },
+  {
+    "name": "Authoritarian Iron Man Tactic 3",
+    "category": [
+      "Civil War",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Civil War (Set)|"
+  },
+  {
+    "name": "Authoritarian Iron Man Tactic 4",
+    "category": [
+      "Civil War",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Civil War (Set)|"
+  },
+  {
+    "name": "Baron Helmut Zemo Tactic 1",
+    "category": [
+      "Civil War",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Civil War (Set)|"
+  },
+  {
+    "name": "Baron Helmut Zemo Tactic 2",
+    "category": [
+      "Civil War",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Civil War (Set)|"
+  },
+  {
+    "name": "Baron Helmut Zemo Tactic 3",
+    "category": [
+      "Civil War",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Civil War (Set)|"
+  },
+  {
+    "name": "Baron Helmut Zemo Tactic 4",
+    "category": [
+      "Civil War",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Civil War (Set)|"
+  },
+  {
+    "name": "Maria Hill, Director of S.H.I.E.L.D. Tactic 1",
+    "category": [
+      "Civil War",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Civil War (Set)|"
+  },
+  {
+    "name": "Maria Hill, Director of S.H.I.E.L.D. Tactic 2",
+    "category": [
+      "Civil War",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Civil War (Set)|"
+  },
+  {
+    "name": "Maria Hill, Director of S.H.I.E.L.D. Tactic 3",
+    "category": [
+      "Civil War",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Civil War (Set)|"
+  },
+  {
+    "name": "Maria Hill, Director of S.H.I.E.L.D. Tactic 4",
+    "category": [
+      "Civil War",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Civil War (Set)|"
+  },
+  {
+    "name": "Misty Knight Tactic 1",
+    "category": [
+      "Civil War",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Civil War (Set)|"
+  },
+  {
+    "name": "Misty Knight Tactic 2",
+    "category": [
+      "Civil War",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Civil War (Set)|"
+  },
+  {
+    "name": "Misty Knight Tactic 3",
+    "category": [
+      "Civil War",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Civil War (Set)|"
+  },
+  {
+    "name": "Misty Knight Tactic 4",
+    "category": [
+      "Civil War",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Civil War (Set)|"
+  },
+  {
+    "name": "Ragnarok Tactic 1",
+    "category": [
+      "Civil War",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Civil War (Set)|"
+  },
+  {
+    "name": "Ragnarok Tactic 2",
+    "category": [
+      "Civil War",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Civil War (Set)|"
+  },
+  {
+    "name": "Ragnarok Tactic 3",
+    "category": [
+      "Civil War",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Civil War (Set)|"
+  },
+  {
+    "name": "Ragnarok Tactic 4",
+    "category": [
+      "Civil War",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Civil War (Set)|"
+  },
+  {
+    "name": "Evil Deadpool Tactic 1",
+    "category": [
+      "Deadpool",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Deadpool (Set)|"
+  },
+  {
+    "name": "Evil Deadpool Tactic 2",
+    "category": [
+      "Deadpool",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Deadpool (Set)|"
+  },
+  {
+    "name": "Evil Deadpool Tactic 3",
+    "category": [
+      "Deadpool",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Deadpool (Set)|"
+  },
+  {
+    "name": "Evil Deadpool Tactic 4",
+    "category": [
+      "Deadpool",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Deadpool (Set)|"
+  },
+  {
+    "name": "Macho Gomez Tactic 1",
+    "category": [
+      "Deadpool",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Deadpool (Set)|"
+  },
+  {
+    "name": "Macho Gomez Tactic 2",
+    "category": [
+      "Deadpool",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Deadpool (Set)|"
+  },
+  {
+    "name": "Macho Gomez Tactic 3",
+    "category": [
+      "Deadpool",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Deadpool (Set)|"
+  },
+  {
+    "name": "Macho Gomez Tactic 4",
+    "category": [
+      "Deadpool",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Deadpool (Set)|"
+  },
+  {
+    "name": "Charles Xavier, Professor of Crime Tactic 1",
+    "category": [
+      "Noir",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Noir (Set)|"
+  },
+  {
+    "name": "Charles Xavier, Professor of Crime Tactic 2",
+    "category": [
+      "Noir",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Noir (Set)|"
+  },
+  {
+    "name": "Charles Xavier, Professor of Crime Tactic 3",
+    "category": [
+      "Noir",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Noir (Set)|"
+  },
+  {
+    "name": "Charles Xavier, Professor of Crime Tactic 4",
+    "category": [
+      "Noir",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Noir (Set)|"
+  },
+  {
+    "name": "The Goblin, Underworld Boss Tactic 1",
+    "category": [
+      "Noir",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Noir (Set)|"
+  },
+  {
+    "name": "The Goblin, Underworld Boss Tactic 2",
+    "category": [
+      "Noir",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Noir (Set)|"
+  },
+  {
+    "name": "The Goblin, Underworld Boss Tactic 3",
+    "category": [
+      "Noir",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Noir (Set)|"
+  },
+  {
+    "name": "The Goblin, Underworld Boss Tactic 4",
+    "category": [
+      "Noir",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Noir (Set)|"
+  },
+  {
+    "name": "Arcade Tactic 1",
+    "category": [
+      "X-Men",
+      "Mastermind Tactic"
+    ],
+    "requires": "|X-Men (Set)|"
+  },
+  {
+    "name": "Arcade Tactic 2",
+    "category": [
+      "X-Men",
+      "Mastermind Tactic"
+    ],
+    "requires": "|X-Men (Set)|"
+  },
+  {
+    "name": "Arcade Tactic 3",
+    "category": [
+      "X-Men",
+      "Mastermind Tactic"
+    ],
+    "requires": "|X-Men (Set)|"
+  },
+  {
+    "name": "Arcade Tactic 4",
+    "category": [
+      "X-Men",
+      "Mastermind Tactic"
+    ],
+    "requires": "|X-Men (Set)|"
+  },
+  {
+    "name": "Dark Phoenix Tactic 1",
+    "category": [
+      "X-Men",
+      "Mastermind Tactic"
+    ],
+    "requires": "|X-Men (Set)|"
+  },
+  {
+    "name": "Dark Phoenix Tactic 2",
+    "category": [
+      "X-Men",
+      "Mastermind Tactic"
+    ],
+    "requires": "|X-Men (Set)|"
+  },
+  {
+    "name": "Dark Phoenix Tactic 3",
+    "category": [
+      "X-Men",
+      "Mastermind Tactic"
+    ],
+    "requires": "|X-Men (Set)|"
+  },
+  {
+    "name": "Dark Phoenix Tactic 4",
+    "category": [
+      "X-Men",
+      "Mastermind Tactic"
+    ],
+    "requires": "|X-Men (Set)|"
+  },
+  {
+    "name": "Deathbird Tactic 1",
+    "category": [
+      "X-Men",
+      "Mastermind Tactic"
+    ],
+    "requires": "|X-Men (Set)|"
+  },
+  {
+    "name": "Deathbird Tactic 2",
+    "category": [
+      "X-Men",
+      "Mastermind Tactic"
+    ],
+    "requires": "|X-Men (Set)|"
+  },
+  {
+    "name": "Deathbird Tactic 3",
+    "category": [
+      "X-Men",
+      "Mastermind Tactic"
+    ],
+    "requires": "|X-Men (Set)|"
+  },
+  {
+    "name": "Deathbird Tactic 4",
+    "category": [
+      "X-Men",
+      "Mastermind Tactic"
+    ],
+    "requires": "|X-Men (Set)|"
+  },
+  {
+    "name": "Mojo Tactic 1",
+    "category": [
+      "X-Men",
+      "Mastermind Tactic"
+    ],
+    "requires": "|X-Men (Set)|"
+  },
+  {
+    "name": "Mojo Tactic 2",
+    "category": [
+      "X-Men",
+      "Mastermind Tactic"
+    ],
+    "requires": "|X-Men (Set)|"
+  },
+  {
+    "name": "Mojo Tactic 3",
+    "category": [
+      "X-Men",
+      "Mastermind Tactic"
+    ],
+    "requires": "|X-Men (Set)|"
+  },
+  {
+    "name": "Mojo Tactic 4",
+    "category": [
+      "X-Men",
+      "Mastermind Tactic"
+    ],
+    "requires": "|X-Men (Set)|"
+  },
+  {
+    "name": "Onslaught Tactic 1",
+    "category": [
+      "X-Men",
+      "Mastermind Tactic"
+    ],
+    "requires": "|X-Men (Set)|"
+  },
+  {
+    "name": "Onslaught Tactic 2",
+    "category": [
+      "X-Men",
+      "Mastermind Tactic"
+    ],
+    "requires": "|X-Men (Set)|"
+  },
+  {
+    "name": "Onslaught Tactic 3",
+    "category": [
+      "X-Men",
+      "Mastermind Tactic"
+    ],
+    "requires": "|X-Men (Set)|"
+  },
+  {
+    "name": "Onslaught Tactic 4",
+    "category": [
+      "X-Men",
+      "Mastermind Tactic"
+    ],
+    "requires": "|X-Men (Set)|"
+  },
+  {
+    "name": "Shadow King Tactic 1",
+    "category": [
+      "X-Men",
+      "Mastermind Tactic"
+    ],
+    "requires": "|X-Men (Set)|"
+  },
+  {
+    "name": "Shadow King Tactic 2",
+    "category": [
+      "X-Men",
+      "Mastermind Tactic"
+    ],
+    "requires": "|X-Men (Set)|"
+  },
+  {
+    "name": "Shadow King Tactic 3",
+    "category": [
+      "X-Men",
+      "Mastermind Tactic"
+    ],
+    "requires": "|X-Men (Set)|"
+  },
+  {
+    "name": "Shadow King Tactic 4",
+    "category": [
+      "X-Men",
+      "Mastermind Tactic"
+    ],
+    "requires": "|X-Men (Set)|"
+  },
+  {
+    "name": "Adrian Toomes Tactic 1",
+    "category": [
+      "Spider-Man Homecoming",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Spider-Man Homecoming (Set)|"
+  },
+  {
+    "name": "Adrian Toomes Tactic 2",
+    "category": [
+      "Spider-Man Homecoming",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Spider-Man Homecoming (Set)|"
+  },
+  {
+    "name": "Adrian Toomes Tactic 3",
+    "category": [
+      "Spider-Man Homecoming",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Spider-Man Homecoming (Set)|"
+  },
+  {
+    "name": "Adrian Toomes Tactic 4",
+    "category": [
+      "Spider-Man Homecoming",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Spider-Man Homecoming (Set)|"
+  },
+  {
+    "name": "Vulture Tactic 1",
+    "category": [
+      "Spider-Man Homecoming",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Spider-Man Homecoming (Set)|"
+  },
+  {
+    "name": "Vulture Tactic 2",
+    "category": [
+      "Spider-Man Homecoming",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Spider-Man Homecoming (Set)|"
+  },
+  {
+    "name": "Vulture Tactic 3",
+    "category": [
+      "Spider-Man Homecoming",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Spider-Man Homecoming (Set)|"
+  },
+  {
+    "name": "Vulture Tactic 4",
+    "category": [
+      "Spider-Man Homecoming",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Spider-Man Homecoming (Set)|"
+  },
+  {
+    "name": "Fin Fang Foom Tactic 1",
+    "category": [
+      "Champions",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Champions (Set)|"
+  },
+  {
+    "name": "Fin Fang Foom Tactic 2",
+    "category": [
+      "Champions",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Champions (Set)|"
+  },
+  {
+    "name": "Fin Fang Foom Tactic 3",
+    "category": [
+      "Champions",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Champions (Set)|"
+  },
+  {
+    "name": "Fin Fang Foom Tactic 4",
+    "category": [
+      "Champions",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Champions (Set)|"
+  },
+  {
+    "name": "Pagliacci Tactic 1",
+    "category": [
+      "Champions",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Champions (Set)|"
+  },
+  {
+    "name": "Pagliacci Tactic 2",
+    "category": [
+      "Champions",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Champions (Set)|"
+  },
+  {
+    "name": "Pagliacci Tactic 3",
+    "category": [
+      "Champions",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Champions (Set)|"
+  },
+  {
+    "name": "Pagliacci Tactic 4",
+    "category": [
+      "Champions",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Champions (Set)|"
+  },
+  {
+    "name": "General “Thunderbolt” Ross Tactic 1",
+    "category": [
+      "World War Hulk",
+      "Mastermind Tactic"
+    ],
+    "requires": "|World War Hulk (Set)|"
+  },
+  {
+    "name": "General “Thunderbolt” Ross Tactic 2",
+    "category": [
+      "World War Hulk",
+      "Mastermind Tactic"
+    ],
+    "requires": "|World War Hulk (Set)|"
+  },
+  {
+    "name": "General “Thunderbolt” Ross Tactic 3",
+    "category": [
+      "World War Hulk",
+      "Mastermind Tactic"
+    ],
+    "requires": "|World War Hulk (Set)|"
+  },
+  {
+    "name": "General “Thunderbolt” Ross Tactic 4",
+    "category": [
+      "World War Hulk",
+      "Mastermind Tactic"
+    ],
+    "requires": "|World War Hulk (Set)|"
+  },
+  {
+    "name": "Illuminati, Secret Society Tactic 1",
+    "category": [
+      "World War Hulk",
+      "Mastermind Tactic"
+    ],
+    "requires": "|World War Hulk (Set)|"
+  },
+  {
+    "name": "Illuminati, Secret Society Tactic 2",
+    "category": [
+      "World War Hulk",
+      "Mastermind Tactic"
+    ],
+    "requires": "|World War Hulk (Set)|"
+  },
+  {
+    "name": "Illuminati, Secret Society Tactic 3",
+    "category": [
+      "World War Hulk",
+      "Mastermind Tactic"
+    ],
+    "requires": "|World War Hulk (Set)|"
+  },
+  {
+    "name": "Illuminati, Secret Society Tactic 4",
+    "category": [
+      "World War Hulk",
+      "Mastermind Tactic"
+    ],
+    "requires": "|World War Hulk (Set)|"
+  },
+  {
+    "name": "King Hulk, Sakaarson Tactic 1",
+    "category": [
+      "World War Hulk",
+      "Mastermind Tactic"
+    ],
+    "requires": "|World War Hulk (Set)|"
+  },
+  {
+    "name": "King Hulk, Sakaarson Tactic 2",
+    "category": [
+      "World War Hulk",
+      "Mastermind Tactic"
+    ],
+    "requires": "|World War Hulk (Set)|"
+  },
+  {
+    "name": "King Hulk, Sakaarson Tactic 3",
+    "category": [
+      "World War Hulk",
+      "Mastermind Tactic"
+    ],
+    "requires": "|World War Hulk (Set)|"
+  },
+  {
+    "name": "King Hulk, Sakaarson Tactic 4",
+    "category": [
+      "World War Hulk",
+      "Mastermind Tactic"
+    ],
+    "requires": "|World War Hulk (Set)|"
+  },
+  {
+    "name": "M.O.D.O.K. Tactic 1",
+    "category": [
+      "World War Hulk",
+      "Mastermind Tactic"
+    ],
+    "requires": "|World War Hulk (Set)|"
+  },
+  {
+    "name": "M.O.D.O.K. Tactic 2",
+    "category": [
+      "World War Hulk",
+      "Mastermind Tactic"
+    ],
+    "requires": "|World War Hulk (Set)|"
+  },
+  {
+    "name": "M.O.D.O.K. Tactic 3",
+    "category": [
+      "World War Hulk",
+      "Mastermind Tactic"
+    ],
+    "requires": "|World War Hulk (Set)|"
+  },
+  {
+    "name": "M.O.D.O.K. Tactic 4",
+    "category": [
+      "World War Hulk",
+      "Mastermind Tactic"
+    ],
+    "requires": "|World War Hulk (Set)|"
+  },
+  {
+    "name": "The Red King Tactic 1",
+    "category": [
+      "World War Hulk",
+      "Mastermind Tactic"
+    ],
+    "requires": "|World War Hulk (Set)|"
+  },
+  {
+    "name": "The Red King Tactic 2",
+    "category": [
+      "World War Hulk",
+      "Mastermind Tactic"
+    ],
+    "requires": "|World War Hulk (Set)|"
+  },
+  {
+    "name": "The Red King Tactic 3",
+    "category": [
+      "World War Hulk",
+      "Mastermind Tactic"
+    ],
+    "requires": "|World War Hulk (Set)|"
+  },
+  {
+    "name": "The Red King Tactic 4",
+    "category": [
+      "World War Hulk",
+      "Mastermind Tactic"
+    ],
+    "requires": "|World War Hulk (Set)|"
+  },
+  {
+    "name": "The Sentry Tactic 1",
+    "category": [
+      "World War Hulk",
+      "Mastermind Tactic"
+    ],
+    "requires": "|World War Hulk (Set)|"
+  },
+  {
+    "name": "The Sentry Tactic 2",
+    "category": [
+      "World War Hulk",
+      "Mastermind Tactic"
+    ],
+    "requires": "|World War Hulk (Set)|"
+  },
+  {
+    "name": "The Sentry Tactic 3",
+    "category": [
+      "World War Hulk",
+      "Mastermind Tactic"
+    ],
+    "requires": "|World War Hulk (Set)|"
+  },
+  {
+    "name": "The Sentry Tactic 4",
+    "category": [
+      "World War Hulk",
+      "Mastermind Tactic"
+    ],
+    "requires": "|World War Hulk (Set)|"
+  },
+  {
+    "name": "Iron Monger Tactic 1",
+    "category": [
+      "Marvel Studios Phase 1",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Marvel Studios, Phase 1 (Set)|"
+  },
+  {
+    "name": "Iron Monger Tactic 2",
+    "category": [
+      "Marvel Studios Phase 1",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Marvel Studios, Phase 1 (Set)|"
+  },
+  {
+    "name": "Iron Monger Tactic 3",
+    "category": [
+      "Marvel Studios Phase 1",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Marvel Studios, Phase 1 (Set)|"
+  },
+  {
+    "name": "Iron Monger Tactic 4",
+    "category": [
+      "Marvel Studios Phase 1",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Marvel Studios, Phase 1 (Set)|"
+  },
+  {
+    "name": "Morgan Le Fay Tactic 1",
+    "category": [
+      "Ant-Man",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Ant-Man (Set)|"
+  },
+  {
+    "name": "Morgan Le Fay Tactic 2",
+    "category": [
+      "Ant-Man",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Ant-Man (Set)|"
+  },
+  {
+    "name": "Morgan Le Fay Tactic 3",
+    "category": [
+      "Ant-Man",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Ant-Man (Set)|"
+  },
+  {
+    "name": "Morgan Le Fay Tactic 4",
+    "category": [
+      "Ant-Man",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Ant-Man (Set)|"
+  },
+  {
+    "name": "Ultron Tactic 1",
+    "category": [
+      "Ant-Man",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Ant-Man (Set)|"
+  },
+  {
+    "name": "Ultron Tactic 2",
+    "category": [
+      "Ant-Man",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Ant-Man (Set)|"
+  },
+  {
+    "name": "Ultron Tactic 3",
+    "category": [
+      "Ant-Man",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Ant-Man (Set)|"
+  },
+  {
+    "name": "Ultron Tactic 4",
+    "category": [
+      "Ant-Man",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Ant-Man (Set)|"
+  },
+  {
+    "name": "Hybrid Tactic 1",
+    "category": [
+      "Venom",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Venom (Set)|"
+  },
+  {
+    "name": "Hybrid Tactic 2",
+    "category": [
+      "Venom",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Venom (Set)|"
+  },
+  {
+    "name": "Hybrid Tactic 3",
+    "category": [
+      "Venom",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Venom (Set)|"
+  },
+  {
+    "name": "Hybrid Tactic 4",
+    "category": [
+      "Venom",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Venom (Set)|"
+  },
+  {
+    "name": "Poison Thanos Tactic 1",
+    "category": [
+      "Venom",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Venom (Set)|"
+  },
+  {
+    "name": "Poison Thanos Tactic 2",
+    "category": [
+      "Venom",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Venom (Set)|"
+  },
+  {
+    "name": "Poison Thanos Tactic 3",
+    "category": [
+      "Venom",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Venom (Set)|"
+  },
+  {
+    "name": "Poison Thanos Tactic 4",
+    "category": [
+      "Venom",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Venom (Set)|"
+  },
+  {
+    "name": "J. Jonah Jameson Tactic 1",
+    "category": [
+      "Dimensions",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Dimensions (Set)|"
+  },
+  {
+    "name": "J. Jonah Jameson Tactic 2",
+    "category": [
+      "Dimensions",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Dimensions (Set)|"
+  },
+  {
+    "name": "J. Jonah Jameson Tactic 3",
+    "category": [
+      "Dimensions",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Dimensions (Set)|"
+  },
+  {
+    "name": "J. Jonah Jameson Tactic 4",
+    "category": [
+      "Dimensions",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Dimensions (Set)|"
+  },
+  {
+    "name": "Grim Reaper Tactic 1",
+    "category": [
+      "Revelations",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Revelations (Set)|"
+  },
+  {
+    "name": "Grim Reaper Tactic 2",
+    "category": [
+      "Revelations",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Revelations (Set)|"
+  },
+  {
+    "name": "Grim Reaper Tactic 3",
+    "category": [
+      "Revelations",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Revelations (Set)|"
+  },
+  {
+    "name": "Grim Reaper Tactic 4",
+    "category": [
+      "Revelations",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Revelations (Set)|"
+  },
+  {
+    "name": "The Hood Tactic 1",
+    "category": [
+      "Revelations",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Revelations (Set)|"
+  },
+  {
+    "name": "The Hood Tactic 2",
+    "category": [
+      "Revelations",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Revelations (Set)|"
+  },
+  {
+    "name": "The Hood Tactic 3",
+    "category": [
+      "Revelations",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Revelations (Set)|"
+  },
+  {
+    "name": "The Hood Tactic 4",
+    "category": [
+      "Revelations",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Revelations (Set)|"
+  },
+  {
+    "name": "Mandarin Tactic 1",
+    "category": [
+      "Revelations",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Revelations (Set)|"
+  },
+  {
+    "name": "Mandarin Tactic 2",
+    "category": [
+      "Revelations",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Revelations (Set)|"
+  },
+  {
+    "name": "Mandarin Tactic 3",
+    "category": [
+      "Revelations",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Revelations (Set)|"
+  },
+  {
+    "name": "Mandarin Tactic 4",
+    "category": [
+      "Revelations",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Revelations (Set)|"
+  },
+  {
+    "name": "Hydra High Council Tactic 1",
+    "category": [
+      "S.H.I.E.L.D.",
+      "Mastermind Tactic"
+    ],
+    "requires": "|S.H.I.E.L.D. (Set)|"
+  },
+  {
+    "name": "Hydra High Council Tactic 2",
+    "category": [
+      "S.H.I.E.L.D.",
+      "Mastermind Tactic"
+    ],
+    "requires": "|S.H.I.E.L.D. (Set)|"
+  },
+  {
+    "name": "Hydra High Council Tactic 3",
+    "category": [
+      "S.H.I.E.L.D.",
+      "Mastermind Tactic"
+    ],
+    "requires": "|S.H.I.E.L.D. (Set)|"
+  },
+  {
+    "name": "Hydra High Council Tactic 4",
+    "category": [
+      "S.H.I.E.L.D.",
+      "Mastermind Tactic"
+    ],
+    "requires": "|S.H.I.E.L.D. (Set)|"
+  },
+  {
+    "name": "Hydra Super-Adaptoid Tactic 1",
+    "category": [
+      "S.H.I.E.L.D.",
+      "Mastermind Tactic"
+    ],
+    "requires": "|S.H.I.E.L.D. (Set)|"
+  },
+  {
+    "name": "Hydra Super-Adaptoid Tactic 2",
+    "category": [
+      "S.H.I.E.L.D.",
+      "Mastermind Tactic"
+    ],
+    "requires": "|S.H.I.E.L.D. (Set)|"
+  },
+  {
+    "name": "Hydra Super-Adaptoid Tactic 3",
+    "category": [
+      "S.H.I.E.L.D.",
+      "Mastermind Tactic"
+    ],
+    "requires": "|S.H.I.E.L.D. (Set)|"
+  },
+  {
+    "name": "Hydra Super-Adaptoid Tactic 4",
+    "category": [
+      "S.H.I.E.L.D.",
+      "Mastermind Tactic"
+    ],
+    "requires": "|S.H.I.E.L.D. (Set)|"
+  },
+  {
+    "name": "Hela, Goddess of Death Tactic 1",
+    "category": [
+      "Heroes of Asgard",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Heroes of Asgard (Set)|"
+  },
+  {
+    "name": "Hela, Goddess of Death Tactic 2",
+    "category": [
+      "Heroes of Asgard",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Heroes of Asgard (Set)|"
+  },
+  {
+    "name": "Hela, Goddess of Death Tactic 3",
+    "category": [
+      "Heroes of Asgard",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Heroes of Asgard (Set)|"
+  },
+  {
+    "name": "Hela, Goddess of Death Tactic 4",
+    "category": [
+      "Heroes of Asgard",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Heroes of Asgard (Set)|"
+  },
+  {
+    "name": "Malekith the Accursed Tactic 1",
+    "category": [
+      "Heroes of Asgard",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Heroes of Asgard (Set)|"
+  },
+  {
+    "name": "Malekith the Accursed Tactic 2",
+    "category": [
+      "Heroes of Asgard",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Heroes of Asgard (Set)|"
+  },
+  {
+    "name": "Malekith the Accursed Tactic 3",
+    "category": [
+      "Heroes of Asgard",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Heroes of Asgard (Set)|"
+  },
+  {
+    "name": "Malekith the Accursed Tactic 4",
+    "category": [
+      "Heroes of Asgard",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Heroes of Asgard (Set)|"
+  },
+  {
+    "name": "Belasco, Demon Lord of Limbo Tactic 1",
+    "category": [
+      "The New Mutants",
+      "Mastermind Tactic"
+    ],
+    "requires": "|The New Mutants (Set)|"
+  },
+  {
+    "name": "Belasco, Demon Lord of Limbo Tactic 2",
+    "category": [
+      "The New Mutants",
+      "Mastermind Tactic"
+    ],
+    "requires": "|The New Mutants (Set)|"
+  },
+  {
+    "name": "Belasco, Demon Lord of Limbo Tactic 3",
+    "category": [
+      "The New Mutants",
+      "Mastermind Tactic"
+    ],
+    "requires": "|The New Mutants (Set)|"
+  },
+  {
+    "name": "Belasco, Demon Lord of Limbo Tactic 4",
+    "category": [
+      "The New Mutants",
+      "Mastermind Tactic"
+    ],
+    "requires": "|The New Mutants (Set)|"
+  },
+  {
+    "name": "Emma Frost, The White Queen Tactic 1",
+    "category": [
+      "The New Mutants",
+      "Mastermind Tactic"
+    ],
+    "requires": "|The New Mutants (Set)|"
+  },
+  {
+    "name": "Emma Frost, The White Queen Tactic 2",
+    "category": [
+      "The New Mutants",
+      "Mastermind Tactic"
+    ],
+    "requires": "|The New Mutants (Set)|"
+  },
+  {
+    "name": "Emma Frost, The White Queen Tactic 3",
+    "category": [
+      "The New Mutants",
+      "Mastermind Tactic"
+    ],
+    "requires": "|The New Mutants (Set)|"
+  },
+  {
+    "name": "Emma Frost, The White Queen Tactic 4",
+    "category": [
+      "The New Mutants",
+      "Mastermind Tactic"
+    ],
+    "requires": "|The New Mutants (Set)|"
+  },
+  {
+    "name": "The Beyonder Tactic 1",
+    "category": [
+      "Into the Cosmos",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Into the Cosmos (Set)|"
+  },
+  {
+    "name": "The Beyonder Tactic 2",
+    "category": [
+      "Into the Cosmos",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Into the Cosmos (Set)|"
+  },
+  {
+    "name": "The Beyonder Tactic 3",
+    "category": [
+      "Into the Cosmos",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Into the Cosmos (Set)|"
+  },
+  {
+    "name": "The Beyonder Tactic 4",
+    "category": [
+      "Into the Cosmos",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Into the Cosmos (Set)|"
+  },
+  {
+    "name": "The Grandmaster Tactic 1",
+    "category": [
+      "Into the Cosmos",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Into the Cosmos (Set)|"
+  },
+  {
+    "name": "The Grandmaster Tactic 2",
+    "category": [
+      "Into the Cosmos",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Into the Cosmos (Set)|"
+  },
+  {
+    "name": "The Grandmaster Tactic 3",
+    "category": [
+      "Into the Cosmos",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Into the Cosmos (Set)|"
+  },
+  {
+    "name": "The Grandmaster Tactic 4",
+    "category": [
+      "Into the Cosmos",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Into the Cosmos (Set)|"
+  },
+  {
+    "name": "Magus Tactic 1",
+    "category": [
+      "Into the Cosmos",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Into the Cosmos (Set)|"
+  },
+  {
+    "name": "Magus Tactic 2",
+    "category": [
+      "Into the Cosmos",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Into the Cosmos (Set)|"
+  },
+  {
+    "name": "Magus Tactic 3",
+    "category": [
+      "Into the Cosmos",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Into the Cosmos (Set)|"
+  },
+  {
+    "name": "Magus Tactic 4",
+    "category": [
+      "Into the Cosmos",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Into the Cosmos (Set)|"
+  },
+  {
+    "name": "Emperor Vulcan of the Shi'ar Tactic 1",
+    "category": [
+      "Realm of Kings",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Realm of Kings (Set)|"
+  },
+  {
+    "name": "Emperor Vulcan of the Shi'ar Tactic 2",
+    "category": [
+      "Realm of Kings",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Realm of Kings (Set)|"
+  },
+  {
+    "name": "Emperor Vulcan of the Shi'ar Tactic 3",
+    "category": [
+      "Realm of Kings",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Realm of Kings (Set)|"
+  },
+  {
+    "name": "Emperor Vulcan of the Shi'ar Tactic 4",
+    "category": [
+      "Realm of Kings",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Realm of Kings (Set)|"
+  },
+  {
+    "name": "Maximus the Mad Tactic 1",
+    "category": [
+      "Realm of Kings",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Realm of Kings (Set)|"
+  },
+  {
+    "name": "Maximus the Mad Tactic 2",
+    "category": [
+      "Realm of Kings",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Realm of Kings (Set)|"
+  },
+  {
+    "name": "Maximus the Mad Tactic 3",
+    "category": [
+      "Realm of Kings",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Realm of Kings (Set)|"
+  },
+  {
+    "name": "Maximus the Mad Tactic 4",
+    "category": [
+      "Realm of Kings",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Realm of Kings (Set)|"
+  },
+  {
+    "name": "Annihilus Tactic 1",
+    "category": [
+      "Annihilation",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Annihilation (Set)|"
+  },
+  {
+    "name": "Annihilus Tactic 2",
+    "category": [
+      "Annihilation",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Annihilation (Set)|"
+  },
+  {
+    "name": "Annihilus Tactic 3",
+    "category": [
+      "Annihilation",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Annihilation (Set)|"
+  },
+  {
+    "name": "Annihilus Tactic 4",
+    "category": [
+      "Annihilation",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Annihilation (Set)|"
+  },
+  {
+    "name": "Kang the Conqueror Tactic 1",
+    "category": [
+      "Annihilation",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Annihilation (Set)|"
+  },
+  {
+    "name": "Kang the Conqueror Tactic 2",
+    "category": [
+      "Annihilation",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Annihilation (Set)|"
+  },
+  {
+    "name": "Kang the Conqueror Tactic 3",
+    "category": [
+      "Annihilation",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Annihilation (Set)|"
+  },
+  {
+    "name": "Kang the Conqueror Tactic 4",
+    "category": [
+      "Annihilation",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Annihilation (Set)|"
+  },
+  {
+    "name": "Bastion, Fused Sentinel Tactic 1",
+    "category": [
+      "Messiah Complex",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Messiah Complex (Set)|"
+  },
+  {
+    "name": "Bastion, Fused Sentinel Tactic 2",
+    "category": [
+      "Messiah Complex",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Messiah Complex (Set)|"
+  },
+  {
+    "name": "Bastion, Fused Sentinel Tactic 3",
+    "category": [
+      "Messiah Complex",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Messiah Complex (Set)|"
+  },
+  {
+    "name": "Bastion, Fused Sentinel Tactic 4",
+    "category": [
+      "Messiah Complex",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Messiah Complex (Set)|"
+  },
+  {
+    "name": "Exodus Tactic 1",
+    "category": [
+      "Messiah Complex",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Messiah Complex (Set)|"
+  },
+  {
+    "name": "Exodus Tactic 2",
+    "category": [
+      "Messiah Complex",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Messiah Complex (Set)|"
+  },
+  {
+    "name": "Exodus Tactic 3",
+    "category": [
+      "Messiah Complex",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Messiah Complex (Set)|"
+  },
+  {
+    "name": "Exodus Tactic 4",
+    "category": [
+      "Messiah Complex",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Messiah Complex (Set)|"
+  },
+  {
+    "name": "Lady Deathstrike Tactic 1",
+    "category": [
+      "Messiah Complex",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Messiah Complex (Set)|"
+  },
+  {
+    "name": "Lady Deathstrike Tactic 2",
+    "category": [
+      "Messiah Complex",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Messiah Complex (Set)|"
+  },
+  {
+    "name": "Lady Deathstrike Tactic 3",
+    "category": [
+      "Messiah Complex",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Messiah Complex (Set)|"
+  },
+  {
+    "name": "Lady Deathstrike Tactic 4",
+    "category": [
+      "Messiah Complex",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Messiah Complex (Set)|"
+  },
+  {
+    "name": "Dormammu Tactic 1",
+    "category": [
+      "Doctor Strange and the Shadows of Nightmare",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Doctor Strange and the Shadows of Nightmare (Set)|"
+  },
+  {
+    "name": "Dormammu Tactic 2",
+    "category": [
+      "Doctor Strange and the Shadows of Nightmare",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Doctor Strange and the Shadows of Nightmare (Set)|"
+  },
+  {
+    "name": "Dormammu Tactic 3",
+    "category": [
+      "Doctor Strange and the Shadows of Nightmare",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Doctor Strange and the Shadows of Nightmare (Set)|"
+  },
+  {
+    "name": "Dormammu Tactic 4",
+    "category": [
+      "Doctor Strange and the Shadows of Nightmare",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Doctor Strange and the Shadows of Nightmare (Set)|"
+  },
+  {
+    "name": "Nightmare Tactic 1",
+    "category": [
+      "Doctor Strange and the Shadows of Nightmare",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Doctor Strange and the Shadows of Nightmare (Set)|"
+  },
+  {
+    "name": "Nightmare Tactic 2",
+    "category": [
+      "Doctor Strange and the Shadows of Nightmare",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Doctor Strange and the Shadows of Nightmare (Set)|"
+  },
+  {
+    "name": "Nightmare Tactic 3",
+    "category": [
+      "Doctor Strange and the Shadows of Nightmare",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Doctor Strange and the Shadows of Nightmare (Set)|"
+  },
+  {
+    "name": "Nightmare Tactic 4",
+    "category": [
+      "Doctor Strange and the Shadows of Nightmare",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Doctor Strange and the Shadows of Nightmare (Set)|"
+  },
+  {
+    "name": "Ego, the Living Planet Tactic 1",
+    "category": [
+      "Marvel Studios' Guardians of the Galaxy",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Marvel Studios' Guardians of the Galaxy (Set)|"
+  },
+  {
+    "name": "Ego, the Living Planet Tactic 2",
+    "category": [
+      "Marvel Studios' Guardians of the Galaxy",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Marvel Studios' Guardians of the Galaxy (Set)|"
+  },
+  {
+    "name": "Ego, the Living Planet Tactic 3",
+    "category": [
+      "Marvel Studios' Guardians of the Galaxy",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Marvel Studios' Guardians of the Galaxy (Set)|"
+  },
+  {
+    "name": "Ego, the Living Planet Tactic 4",
+    "category": [
+      "Marvel Studios' Guardians of the Galaxy",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Marvel Studios' Guardians of the Galaxy (Set)|"
+  },
+  {
+    "name": "Ego, the Living Planet Tactic 5",
+    "category": [
+      "Marvel Studios' Guardians of the Galaxy",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Marvel Studios' Guardians of the Galaxy (Set)|"
+  },
+  {
+    "name": "Ronan the Accuser Tactic 1",
+    "category": [
+      "Marvel Studios' Guardians of the Galaxy",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Marvel Studios' Guardians of the Galaxy (Set)|"
+  },
+  {
+    "name": "Ronan the Accuser Tactic 2",
+    "category": [
+      "Marvel Studios' Guardians of the Galaxy",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Marvel Studios' Guardians of the Galaxy (Set)|"
+  },
+  {
+    "name": "Ronan the Accuser Tactic 3",
+    "category": [
+      "Marvel Studios' Guardians of the Galaxy",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Marvel Studios' Guardians of the Galaxy (Set)|"
+  },
+  {
+    "name": "Ronan the Accuser Tactic 4",
+    "category": [
+      "Marvel Studios' Guardians of the Galaxy",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Marvel Studios' Guardians of the Galaxy (Set)|"
+  },
+  {
+    "name": "Killmonger Tactic 1",
+    "category": [
+      "Black Panther",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Black Panther (Set)|"
+  },
+  {
+    "name": "Killmonger Tactic 2",
+    "category": [
+      "Black Panther",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Black Panther (Set)|"
+  },
+  {
+    "name": "Killmonger Tactic 3",
+    "category": [
+      "Black Panther",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Black Panther (Set)|"
+  },
+  {
+    "name": "Killmonger Tactic 4",
+    "category": [
+      "Black Panther",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Black Panther (Set)|"
+  },
+  {
+    "name": "Klaw Tactic 1",
+    "category": [
+      "Black Panther",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Black Panther (Set)|"
+  },
+  {
+    "name": "Klaw Tactic 2",
+    "category": [
+      "Black Panther",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Black Panther (Set)|"
+  },
+  {
+    "name": "Klaw Tactic 3",
+    "category": [
+      "Black Panther",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Black Panther (Set)|"
+  },
+  {
+    "name": "Klaw Tactic 4",
+    "category": [
+      "Black Panther",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Black Panther (Set)|"
+  },
+  {
+    "name": "Indestructible Man Tactic 1",
+    "category": [
+      "Black Widow",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Black Widow (Set)|"
+  },
+  {
+    "name": "Indestructible Man Tactic 2",
+    "category": [
+      "Black Widow",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Black Widow (Set)|"
+  },
+  {
+    "name": "Indestructible Man Tactic 3",
+    "category": [
+      "Black Widow",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Black Widow (Set)|"
+  },
+  {
+    "name": "Indestructible Man Tactic 4",
+    "category": [
+      "Black Widow",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Black Widow (Set)|"
+  },
+  {
+    "name": "Taskmaster Tactic 1",
+    "category": [
+      "Black Widow",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Black Widow (Set)|"
+  },
+  {
+    "name": "Taskmaster Tactic 2",
+    "category": [
+      "Black Widow",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Black Widow (Set)|"
+  },
+  {
+    "name": "Taskmaster Tactic 3",
+    "category": [
+      "Black Widow",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Black Widow (Set)|"
+  },
+  {
+    "name": "Taskmaster Tactic 4",
+    "category": [
+      "Black Widow",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Black Widow (Set)|"
+  },
+  {
+    "name": "Ebony Maw Tactic 1",
+    "category": [
+      "Marvel Studios' The Infinity Saga",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Marvel Studios' The Infinity Saga (Set)|"
+  },
+  {
+    "name": "Ebony Maw Tactic 2",
+    "category": [
+      "Marvel Studios' The Infinity Saga",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Marvel Studios' The Infinity Saga (Set)|"
+  },
+  {
+    "name": "Ebony Maw Tactic 3",
+    "category": [
+      "Marvel Studios' The Infinity Saga",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Marvel Studios' The Infinity Saga (Set)|"
+  },
+  {
+    "name": "Ebony Maw Tactic 4",
+    "category": [
+      "Marvel Studios' The Infinity Saga",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Marvel Studios' The Infinity Saga (Set)|"
+  },
+  {
+    "name": "Thanos (Infinity Saga) Tactic 1",
+    "category": [
+      "Marvel Studios' The Infinity Saga",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Marvel Studios' The Infinity Saga (Set)|"
+  },
+  {
+    "name": "Thanos (Infinity Saga) Tactic 2",
+    "category": [
+      "Marvel Studios' The Infinity Saga",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Marvel Studios' The Infinity Saga (Set)|"
+  },
+  {
+    "name": "Thanos (Infinity Saga) Tactic 3",
+    "category": [
+      "Marvel Studios' The Infinity Saga",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Marvel Studios' The Infinity Saga (Set)|"
+  },
+  {
+    "name": "Thanos (Infinity Saga) Tactic 4",
+    "category": [
+      "Marvel Studios' The Infinity Saga",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Marvel Studios' The Infinity Saga (Set)|"
+  },
+  {
+    "name": "Lilith, Mother of Demons Tactic 1",
+    "category": [
+      "Midnight Sons",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Midnight Sons (Set)|"
+  },
+  {
+    "name": "Lilith, Mother of Demons Tactic 2",
+    "category": [
+      "Midnight Sons",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Midnight Sons (Set)|"
+  },
+  {
+    "name": "Lilith, Mother of Demons Tactic 3",
+    "category": [
+      "Midnight Sons",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Midnight Sons (Set)|"
+  },
+  {
+    "name": "Lilith, Mother of Demons Tactic 4",
+    "category": [
+      "Midnight Sons",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Midnight Sons (Set)|"
+  },
+  {
+    "name": "Zarathos Tactic 1",
+    "category": [
+      "Midnight Sons",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Midnight Sons (Set)|"
+  },
+  {
+    "name": "Zarathos Tactic 2",
+    "category": [
+      "Midnight Sons",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Midnight Sons (Set)|"
+  },
+  {
+    "name": "Zarathos Tactic 3",
+    "category": [
+      "Midnight Sons",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Midnight Sons (Set)|"
+  },
+  {
+    "name": "Zarathos Tactic 4",
+    "category": [
+      "Midnight Sons",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Midnight Sons (Set)|"
+  },
+  {
+    "name": "Hank Pym, Yellowjacket Tactic 1",
+    "category": [
+      "Marvel Studios' What If...?",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Marvel Studios' What If...? (Set)|"
+  },
+  {
+    "name": "Hank Pym, Yellowjacket Tactic 2",
+    "category": [
+      "Marvel Studios' What If...?",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Marvel Studios' What If...? (Set)|"
+  },
+  {
+    "name": "Hank Pym, Yellowjacket Tactic 3",
+    "category": [
+      "Marvel Studios' What If...?",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Marvel Studios' What If...? (Set)|"
+  },
+  {
+    "name": "Hank Pym, Yellowjacket Tactic 4",
+    "category": [
+      "Marvel Studios' What If...?",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Marvel Studios' What If...? (Set)|"
+  },
+  {
+    "name": "Killmonger, The Betrayer Tactic 1",
+    "category": [
+      "Marvel Studios' What If...?",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Marvel Studios' What If...? (Set)|"
+  },
+  {
+    "name": "Killmonger, The Betrayer Tactic 2",
+    "category": [
+      "Marvel Studios' What If...?",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Marvel Studios' What If...? (Set)|"
+  },
+  {
+    "name": "Killmonger, The Betrayer Tactic 3",
+    "category": [
+      "Marvel Studios' What If...?",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Marvel Studios' What If...? (Set)|"
+  },
+  {
+    "name": "Killmonger, The Betrayer Tactic 4",
+    "category": [
+      "Marvel Studios' What If...?",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Marvel Studios' What If...? (Set)|"
+  },
+  {
+    "name": "Ultron Infinity Tactic 1",
+    "category": [
+      "Marvel Studios' What If...?",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Marvel Studios' What If...? (Set)|"
+  },
+  {
+    "name": "Ultron Infinity Tactic 2",
+    "category": [
+      "Marvel Studios' What If...?",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Marvel Studios' What If...? (Set)|"
+  },
+  {
+    "name": "Ultron Infinity Tactic 3",
+    "category": [
+      "Marvel Studios' What If...?",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Marvel Studios' What If...? (Set)|"
+  },
+  {
+    "name": "Ultron Infinity Tactic 4",
+    "category": [
+      "Marvel Studios' What If...?",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Marvel Studios' What If...? (Set)|"
+  },
+  {
+    "name": "Zombie Scarlet Witch Tactic 1",
+    "category": [
+      "Marvel Studios' What If...?",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Marvel Studios' What If...? (Set)|"
+  },
+  {
+    "name": "Zombie Scarlet Witch Tactic 2",
+    "category": [
+      "Marvel Studios' What If...?",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Marvel Studios' What If...? (Set)|"
+  },
+  {
+    "name": "Zombie Scarlet Witch Tactic 3",
+    "category": [
+      "Marvel Studios' What If...?",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Marvel Studios' What If...? (Set)|"
+  },
+  {
+    "name": "Zombie Scarlet Witch Tactic 4",
+    "category": [
+      "Marvel Studios' What If...?",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Marvel Studios' What If...? (Set)|"
+  },
+  {
+    "name": "Darren Cross Tactic 1",
+    "category": [
+      "Marvel Studios' Ant-Man and the Wasp",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Marvel Studios' Ant-Man and the Wasp (Set)|"
+  },
+  {
+    "name": "Darren Cross Tactic 2",
+    "category": [
+      "Marvel Studios' Ant-Man and the Wasp",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Marvel Studios' Ant-Man and the Wasp (Set)|"
+  },
+  {
+    "name": "Darren Cross Tactic 3",
+    "category": [
+      "Marvel Studios' Ant-Man and the Wasp",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Marvel Studios' Ant-Man and the Wasp (Set)|"
+  },
+  {
+    "name": "Darren Cross Tactic 4",
+    "category": [
+      "Marvel Studios' Ant-Man and the Wasp",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Marvel Studios' Ant-Man and the Wasp (Set)|"
+  },
+  {
+    "name": "Ghost, Master Thief Tactic 1",
+    "category": [
+      "Marvel Studios' Ant-Man and the Wasp",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Marvel Studios' Ant-Man and the Wasp (Set)|"
+  },
+  {
+    "name": "Ghost, Master Thief Tactic 2",
+    "category": [
+      "Marvel Studios' Ant-Man and the Wasp",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Marvel Studios' Ant-Man and the Wasp (Set)|"
+  },
+  {
+    "name": "Ghost, Master Thief Tactic 3",
+    "category": [
+      "Marvel Studios' Ant-Man and the Wasp",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Marvel Studios' Ant-Man and the Wasp (Set)|"
+  },
+  {
+    "name": "Ghost, Master Thief Tactic 4",
+    "category": [
+      "Marvel Studios' Ant-Man and the Wasp",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Marvel Studios' Ant-Man and the Wasp (Set)|"
+  },
+  {
+    "name": "Kang, Quantum Conqueror Tactic 1",
+    "category": [
+      "Marvel Studios' Ant-Man and the Wasp",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Marvel Studios' Ant-Man and the Wasp (Set)|"
+  },
+  {
+    "name": "Kang, Quantum Conqueror Tactic 2",
+    "category": [
+      "Marvel Studios' Ant-Man and the Wasp",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Marvel Studios' Ant-Man and the Wasp (Set)|"
+  },
+  {
+    "name": "Kang, Quantum Conqueror Tactic 3",
+    "category": [
+      "Marvel Studios' Ant-Man and the Wasp",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Marvel Studios' Ant-Man and the Wasp (Set)|"
+  },
+  {
+    "name": "Kang, Quantum Conqueror Tactic 4",
+    "category": [
+      "Marvel Studios' Ant-Man and the Wasp",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Marvel Studios' Ant-Man and the Wasp (Set)|"
+  },
+  {
+    "name": "Alchemax Executives Tactic 1",
+    "category": [
+      "Marvel 2099",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Marvel 2099 (Set)|"
+  },
+  {
+    "name": "Alchemax Executives Tactic 2",
+    "category": [
+      "Marvel 2099",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Marvel 2099 (Set)|"
+  },
+  {
+    "name": "Alchemax Executives Tactic 3",
+    "category": [
+      "Marvel 2099",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Marvel 2099 (Set)|"
+  },
+  {
+    "name": "Alchemax Executives Tactic 4",
+    "category": [
+      "Marvel 2099",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Marvel 2099 (Set)|"
+  },
+  {
+    "name": "Sinister Six 2099 Tactic 1",
+    "category": [
+      "Marvel 2099",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Marvel 2099 (Set)|"
+  },
+  {
+    "name": "Sinister Six 2099 Tactic 2",
+    "category": [
+      "Marvel 2099",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Marvel 2099 (Set)|"
+  },
+  {
+    "name": "Sinister Six 2099 Tactic 3",
+    "category": [
+      "Marvel 2099",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Marvel 2099 (Set)|"
+  },
+  {
+    "name": "Sinister Six 2099 Tactic 4",
+    "category": [
+      "Marvel 2099",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Marvel 2099 (Set)|"
+  },
+  {
+    "name": "Sinister Six 2099 Tactic 5",
+    "category": [
+      "Marvel 2099",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Marvel 2099 (Set)|"
+  },
+  {
+    "name": "Sinister Six 2099 Tactic 6",
+    "category": [
+      "Marvel 2099",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Marvel 2099 (Set)|"
+  },
+  {
+    "name": "Omega Red Tactic 1",
+    "category": [
+      "Weapon X",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Weapon X (Set)|"
+  },
+  {
+    "name": "Omega Red Tactic 2",
+    "category": [
+      "Weapon X",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Weapon X (Set)|"
+  },
+  {
+    "name": "Omega Red Tactic 3",
+    "category": [
+      "Weapon X",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Weapon X (Set)|"
+  },
+  {
+    "name": "Omega Red Tactic 4",
+    "category": [
+      "Weapon X",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Weapon X (Set)|"
+  },
+  {
+    "name": "Romulus Tactic 1",
+    "category": [
+      "Weapon X",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Weapon X (Set)|"
+  },
+  {
+    "name": "Romulus Tactic 2",
+    "category": [
+      "Weapon X",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Weapon X (Set)|"
+  },
+  {
+    "name": "Romulus Tactic 3",
+    "category": [
+      "Weapon X",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Weapon X (Set)|"
+  },
+  {
+    "name": "Romulus Tactic 4",
+    "category": [
+      "Weapon X",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Weapon X (Set)|"
+  },
+  {
+    "name": "Sabretooth Tactic 1",
+    "category": [
+      "Weapon X",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Weapon X (Set)|"
+  },
+  {
+    "name": "Sabretooth Tactic 2",
+    "category": [
+      "Weapon X",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Weapon X (Set)|"
+  },
+  {
+    "name": "Sabretooth Tactic 3",
+    "category": [
+      "Weapon X",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Weapon X (Set)|"
+  },
+  {
+    "name": "Sabretooth Tactic 4",
+    "category": [
+      "Weapon X",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Weapon X (Set)|"
+  },
+  {
+    "name": "Loki (Phase 1)",
+    "category": [
+      "Marvel Studios Phase 1",
+      "Mastermind"
+    ],
+    "requires": "|Marvel Studios, Phase 1 (Set)|"
+  },
+  {
+    "name": "Red Skull (Phase 1)",
+    "category": [
+      "Marvel Studios Phase 1",
+      "Mastermind"
+    ],
+    "requires": "|Marvel Studios, Phase 1 (Set)|"
+  },
+  {
+    "name": "Loki (Phase 1) Tactic 1",
+    "category": [
+      "Marvel Studios Phase 1",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Marvel Studios, Phase 1 (Set)|"
+  },
+  {
+    "name": "Loki (Phase 1) Tactic 2",
+    "category": [
+      "Marvel Studios Phase 1",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Marvel Studios, Phase 1 (Set)|"
+  },
+  {
+    "name": "Loki (Phase 1) Tactic 3",
+    "category": [
+      "Marvel Studios Phase 1",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Marvel Studios, Phase 1 (Set)|"
+  },
+  {
+    "name": "Loki (Phase 1) Tactic 4",
+    "category": [
+      "Marvel Studios Phase 1",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Marvel Studios, Phase 1 (Set)|"
+  },
+  {
+    "name": "Red Skull (Phase 1) Tactic 1",
+    "category": [
+      "Marvel Studios Phase 1",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Marvel Studios, Phase 1 (Set)|"
+  },
+  {
+    "name": "Red Skull (Phase 1) Tactic 2",
+    "category": [
+      "Marvel Studios Phase 1",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Marvel Studios, Phase 1 (Set)|"
+  },
+  {
+    "name": "Red Skull (Phase 1) Tactic 3",
+    "category": [
+      "Marvel Studios Phase 1",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Marvel Studios, Phase 1 (Set)|"
+  },
+  {
+    "name": "Red Skull (Phase 1) Tactic 4",
+    "category": [
+      "Marvel Studios Phase 1",
+      "Mastermind Tactic"
+    ],
+    "requires": "|Marvel Studios, Phase 1 (Set)|"
   }
 ]

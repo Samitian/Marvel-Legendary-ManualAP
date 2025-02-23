@@ -1,4 +1,9 @@
 {
+  "Core": {
+    "yaml_option": [
+      "Enable_Core_Set"
+    ]
+  },
   "Dark City": {
     "yaml_option": [
       "Enable_Dark_City"
