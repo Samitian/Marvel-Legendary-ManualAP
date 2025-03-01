@@ -4,9 +4,17 @@
   "creator": "Samitian",
   "filler_item_name": "False Lead",
   "starting_items": [
-	{
-		"item_categories": ["Base Set"],
-		"random": 1
+    {
+      "item_categories": [
+        "Base Set"
+      ],
+      "random": 1
+	},
+    {
+      "item_categories": [
+        "Hero"
+      ],
+      "random": 5
 	}
   ]
 }

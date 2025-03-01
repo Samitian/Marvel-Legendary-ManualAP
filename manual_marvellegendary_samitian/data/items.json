@@ -1,405 +1,3125 @@
 [
-  {
-    "count": 1,
-    "name": "Dark City (Set)",
-    "category": [
-      "Set",
-      "Dark City"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Fantastic Four (Set)",
-    "category": [
-      "Set",
-      "Fantastic Four"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Paint the Town Red (Set)",
-    "category": [
-      "Set",
-      "Paint the Town Red"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Villains (Set)",
-    "category": [
-      "Set",
-      "Villains",
-      "Base Set"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Guardians of the Galaxy (Set)",
-    "category": [
-      "Set",
-      "Guardians of the Galaxy"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Fear Itself (Set)",
-    "category": [
-      "Set",
-      "Fear Itself"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Secret Wars, Volume 1 (Set)",
-    "category": [
-      "Set",
-      "Secret Wars Volume 1"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Secret Wars, Volume 2 (Set)",
-    "category": [
-      "Set",
-      "Secret Wars Volume 2"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Captain America 75th Anniversary (Set)",
-    "category": [
-      "Set",
-      "Captain America 75th Anniversary"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Civil War (Set)",
-    "category": [
-      "Set",
-      "Civil War"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Deadpool (Set)",
-    "category": [
-      "Set",
-      "Deadpool"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Noir (Set)",
-    "category": [
-      "Set",
-      "Noir"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "X-Men (Set)",
-    "category": [
-      "Set",
-      "X-Men"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Spider-Man Homecoming (Set)",
-    "category": [
-      "Set",
-      "Spider-Man Homecoming"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Champions (Set)",
-    "category": [
-      "Set",
-      "Champions"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "World War Hulk (Set)",
-    "category": [
-      "Set",
-      "World War Hulk"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Marvel Studios, Phase 1 (Set)",
-    "category": [
-      "Set",
-      "Marvel Studios Phase 1",
-      "Base Set"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Ant-Man (Set)",
-    "category": [
-      "Set",
-      "Ant-Man"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Venom (Set)",
-    "category": [
-      "Set",
-      "Venom"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Dimensions (Set)",
-    "category": [
-      "Set",
-      "Dimensions"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Revelations (Set)",
-    "category": [
-      "Set",
-      "Revelations"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "S.H.I.E.L.D. (Set)",
-    "category": [
-      "Set",
-      "S.H.I.E.L.D."
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Heroes of Asgard (Set)",
-    "category": [
-      "Set",
-      "Heroes of Asgard"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "The New Mutants (Set)",
-    "category": [
-      "Set",
-      "The New Mutants"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Into the Cosmos (Set)",
-    "category": [
-      "Set",
-      "Into the Cosmos"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Realm of Kings (Set)",
-    "category": [
-      "Set",
-      "Realm of Kings"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Annihilation (Set)",
-    "category": [
-      "Set",
-      "Annihilation"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Messiah Complex (Set)",
-    "category": [
-      "Set",
-      "Messiah Complex"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Doctor Strange and the Shadows of Nightmare (Set)",
-    "category": [
-      "Set",
-      "Doctor Strange and the Shadows of Nightmare"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Marvel Studios' Guardians of the Galaxy (Set)",
-    "category": [
-      "Set",
-      "Marvel Studios' Guardians of the Galaxy"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Black Panther (Set)",
-    "category": [
-      "Set",
-      "Black Panther"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Black Widow (Set)",
-    "category": [
-      "Set",
-      "Black Widow"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Marvel Studios' The Infinity Saga (Set)",
-    "category": [
-      "Set",
-      "Marvel Studios' The Infinity Saga"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Midnight Sons (Set)",
-    "category": [
-      "Set",
-      "Midnight Sons"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Marvel Studios' What If...? (Set)",
-    "category": [
-      "Set",
-      "Marvel Studios' What If...?",
-      "Base Set"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Marvel Studios' Ant-Man and the Wasp (Set)",
-    "category": [
-      "Set",
-      "Marvel Studios' Ant-Man and the Wasp"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Marvel 2099 (Set)",
-    "category": [
-      "Set",
-      "Marvel 2099"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Weapon X (Set)",
-    "category": [
-      "Set",
-      "Weapon X"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Space Stone",
-    "category": [
-      "(Infinity Stones)"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": 1,
-    "name": "Reality Stone",
-    "category": [
-      "(Infinity Stones)"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": 1,
-    "name": "Power Stone",
-    "category": [
-      "(Infinity Stones)"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": 1,
-    "name": "Soul Stone",
-    "category": [
-      "(Infinity Stones)"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": 1,
-    "name": "Mind Stone",
-    "category": [
-      "(Infinity Stones)"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": 1,
-    "name": "Time Stone",
-    "category": [
-      "(Infinity Stones)"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": 1,
-    "name": "Core (Set)",
-    "category": [
-      "Set",
-      "Core",
-      "Base Set"
-    ],
-    "progression": true
-  }
+	{
+		"count": 1,
+		"name": "Dark City (Set)",
+		"category": [
+			"Set",
+			"Dark City"
+		],
+		"progression": true
+	},
+	{
+		"count": 1,
+		"name": "Fantastic Four (Set)",
+		"category": [
+			"Set",
+			"Fantastic Four"
+		],
+		"progression": true
+	},
+	{
+		"count": 1,
+		"name": "Paint the Town Red (Set)",
+		"category": [
+			"Set",
+			"Paint the Town Red"
+		],
+		"progression": true
+	},
+	{
+		"count": 1,
+		"name": "Villains (Set)",
+		"category": [
+			"Set",
+			"Villains",
+			"Base Set"
+		],
+		"progression": true
+	},
+	{
+		"count": 1,
+		"name": "Guardians of the Galaxy (Set)",
+		"category": [
+			"Set",
+			"Guardians of the Galaxy"
+		],
+		"progression": true
+	},
+	{
+		"count": 1,
+		"name": "Fear Itself (Set)",
+		"category": [
+			"Set",
+			"Fear Itself"
+		],
+		"progression": true
+	},
+	{
+		"count": 1,
+		"name": "Secret Wars, Volume 1 (Set)",
+		"category": [
+			"Set",
+			"Secret Wars Volume 1"
+		],
+		"progression": true
+	},
+	{
+		"count": 1,
+		"name": "Secret Wars, Volume 2 (Set)",
+		"category": [
+			"Set",
+			"Secret Wars Volume 2"
+		],
+		"progression": true
+	},
+	{
+		"count": 1,
+		"name": "Captain America 75th Anniversary (Set)",
+		"category": [
+			"Set",
+			"Captain America 75th Anniversary"
+		],
+		"progression": true
+	},
+	{
+		"count": 1,
+		"name": "Civil War (Set)",
+		"category": [
+			"Set",
+			"Civil War"
+		],
+		"progression": true
+	},
+	{
+		"count": 1,
+		"name": "Deadpool (Set)",
+		"category": [
+			"Set",
+			"Deadpool"
+		],
+		"progression": true
+	},
+	{
+		"count": 1,
+		"name": "Noir (Set)",
+		"category": [
+			"Set",
+			"Noir"
+		],
+		"progression": true
+	},
+	{
+		"count": 1,
+		"name": "X-Men (Set)",
+		"category": [
+			"Set",
+			"X-Men"
+		],
+		"progression": true
+	},
+	{
+		"count": 1,
+		"name": "Spider-Man Homecoming (Set)",
+		"category": [
+			"Set",
+			"Spider-Man Homecoming"
+		],
+		"progression": true
+	},
+	{
+		"count": 1,
+		"name": "Champions (Set)",
+		"category": [
+			"Set",
+			"Champions"
+		],
+		"progression": true
+	},
+	{
+		"count": 1,
+		"name": "World War Hulk (Set)",
+		"category": [
+			"Set",
+			"World War Hulk"
+		],
+		"progression": true
+	},
+	{
+		"count": 1,
+		"name": "Marvel Studios, Phase 1 (Set)",
+		"category": [
+			"Set",
+			"Marvel Studios Phase 1",
+			"Base Set"
+		],
+		"progression": true
+	},
+	{
+		"count": 1,
+		"name": "Ant-Man (Set)",
+		"category": [
+			"Set",
+			"Ant-Man"
+		],
+		"progression": true
+	},
+	{
+		"count": 1,
+		"name": "Venom (Set)",
+		"category": [
+			"Set",
+			"Venom"
+		],
+		"progression": true
+	},
+	{
+		"count": 1,
+		"name": "Dimensions (Set)",
+		"category": [
+			"Set",
+			"Dimensions"
+		],
+		"progression": true
+	},
+	{
+		"count": 1,
+		"name": "Revelations (Set)",
+		"category": [
+			"Set",
+			"Revelations"
+		],
+		"progression": true
+	},
+	{
+		"count": 1,
+		"name": "S.H.I.E.L.D. (Set)",
+		"category": [
+			"Set",
+			"S.H.I.E.L.D."
+		],
+		"progression": true
+	},
+	{
+		"count": 1,
+		"name": "Heroes of Asgard (Set)",
+		"category": [
+			"Set",
+			"Heroes of Asgard"
+		],
+		"progression": true
+	},
+	{
+		"count": 1,
+		"name": "The New Mutants (Set)",
+		"category": [
+			"Set",
+			"The New Mutants"
+		],
+		"progression": true
+	},
+	{
+		"count": 1,
+		"name": "Into the Cosmos (Set)",
+		"category": [
+			"Set",
+			"Into the Cosmos"
+		],
+		"progression": true
+	},
+	{
+		"count": 1,
+		"name": "Realm of Kings (Set)",
+		"category": [
+			"Set",
+			"Realm of Kings"
+		],
+		"progression": true
+	},
+	{
+		"count": 1,
+		"name": "Annihilation (Set)",
+		"category": [
+			"Set",
+			"Annihilation"
+		],
+		"progression": true
+	},
+	{
+		"count": 1,
+		"name": "Messiah Complex (Set)",
+		"category": [
+			"Set",
+			"Messiah Complex"
+		],
+		"progression": true
+	},
+	{
+		"count": 1,
+		"name": "Doctor Strange and the Shadows of Nightmare (Set)",
+		"category": [
+			"Set",
+			"Doctor Strange and the Shadows of Nightmare"
+		],
+		"progression": true
+	},
+	{
+		"count": 1,
+		"name": "Marvel Studios' Guardians of the Galaxy (Set)",
+		"category": [
+			"Set",
+			"Marvel Studios' Guardians of the Galaxy"
+		],
+		"progression": true
+	},
+	{
+		"count": 1,
+		"name": "Black Panther (Set)",
+		"category": [
+			"Set",
+			"Black Panther"
+		],
+		"progression": true
+	},
+	{
+		"count": 1,
+		"name": "Black Widow (Set)",
+		"category": [
+			"Set",
+			"Black Widow"
+		],
+		"progression": true
+	},
+	{
+		"count": 1,
+		"name": "Marvel Studios' The Infinity Saga (Set)",
+		"category": [
+			"Set",
+			"Marvel Studios' The Infinity Saga"
+		],
+		"progression": true
+	},
+	{
+		"count": 1,
+		"name": "Midnight Sons (Set)",
+		"category": [
+			"Set",
+			"Midnight Sons"
+		],
+		"progression": true
+	},
+	{
+		"count": 1,
+		"name": "Marvel Studios' What If...? (Set)",
+		"category": [
+			"Set",
+			"Marvel Studios' What If...?",
+			"Base Set"
+		],
+		"progression": true
+	},
+	{
+		"count": 1,
+		"name": "Marvel Studios' Ant-Man and the Wasp (Set)",
+		"category": [
+			"Set",
+			"Marvel Studios' Ant-Man and the Wasp"
+		],
+		"progression": true
+	},
+	{
+		"count": 1,
+		"name": "Marvel 2099 (Set)",
+		"category": [
+			"Set",
+			"Marvel 2099"
+		],
+		"progression": true
+	},
+	{
+		"count": 1,
+		"name": "Weapon X (Set)",
+		"category": [
+			"Set",
+			"Weapon X"
+		],
+		"progression": true
+	},
+	{
+		"count": 1,
+		"name": "Space Stone",
+		"category": [
+			"(Infinity Stones)"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "Reality Stone",
+		"category": [
+			"(Infinity Stones)"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "Power Stone",
+		"category": [
+			"(Infinity Stones)"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "Soul Stone",
+		"category": [
+			"(Infinity Stones)"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "Mind Stone",
+		"category": [
+			"(Infinity Stones)"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "Time Stone",
+		"category": [
+			"(Infinity Stones)"
+		],
+		"progression_skip_balancing": true
+	},
+	{
+		"count": 1,
+		"name": "Core (Set)",
+		"category": [
+			"Set",
+			"Core",
+			"Base Set"
+		],
+		"progression": true
+	},
+	{
+		"count": 1,
+		"name": "Captain America (Core)",
+		"category": [
+			"Hero",
+			"Core"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Black Widow (Core)",
+		"category": [
+			"Hero",
+			"Core"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Deadpool (Core)",
+		"category": [
+			"Hero",
+			"Core"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Cyclops",
+		"category": [
+			"Hero",
+			"Core"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Emma Frost",
+		"category": [
+			"Hero",
+			"Core"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Gambit",
+		"category": [
+			"Hero",
+			"Core"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Hawkeye (Core)",
+		"category": [
+			"Hero",
+			"Core"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Hulk (Core)",
+		"category": [
+			"Hero",
+			"Core"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Iron Man (Core)",
+		"category": [
+			"Hero",
+			"Core"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Nick Fury (Core)",
+		"category": [
+			"Hero",
+			"Core"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Rogue",
+		"category": [
+			"Hero",
+			"Core"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Spider-Man",
+		"category": [
+			"Hero",
+			"Core"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Storm",
+		"category": [
+			"Hero",
+			"Core"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Thor (Core)",
+		"category": [
+			"Hero",
+			"Core"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Wolverine (Core)",
+		"category": [
+			"Hero",
+			"Core"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Angel",
+		"category": [
+			"Hero",
+			"Dark City"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Bishop",
+		"category": [
+			"Hero",
+			"Dark City"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Blade",
+		"category": [
+			"Hero",
+			"Dark City"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Cable",
+		"category": [
+			"Hero",
+			"Dark City"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Colossus",
+		"category": [
+			"Hero",
+			"Dark City"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Daredevil (Dark City)",
+		"category": [
+			"Hero",
+			"Dark City"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Domino",
+		"category": [
+			"Hero",
+			"Dark City"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Elektra",
+		"category": [
+			"Hero",
+			"Dark City"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Forge",
+		"category": [
+			"Hero",
+			"Dark City"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Ghost Rider",
+		"category": [
+			"Hero",
+			"Dark City"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Iceman",
+		"category": [
+			"Hero",
+			"Dark City"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Iron Fist",
+		"category": [
+			"Hero",
+			"Dark City"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Jean Grey",
+		"category": [
+			"Hero",
+			"Dark City"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Nightcrawler",
+		"category": [
+			"Hero",
+			"Dark City"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Professor X",
+		"category": [
+			"Hero",
+			"Dark City"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Punisher",
+		"category": [
+			"Hero",
+			"Dark City"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Wolverine (Dark City)",
+		"category": [
+			"Hero",
+			"Dark City"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Human Torch",
+		"category": [
+			"Hero",
+			"Fantastic Four"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Invisible Woman",
+		"category": [
+			"Hero",
+			"Fantastic Four"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Mr. Fantastic",
+		"category": [
+			"Hero",
+			"Fantastic Four"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Silver Surfer",
+		"category": [
+			"Hero",
+			"Fantastic Four"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Thing",
+		"category": [
+			"Hero",
+			"Fantastic Four"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Black Cat",
+		"category": [
+			"Hero",
+			"Paint the Town Red"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Moon Knight",
+		"category": [
+			"Hero",
+			"Paint the Town Red"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Scarlet Spider",
+		"category": [
+			"Hero",
+			"Paint the Town Red"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Spider-Woman",
+		"category": [
+			"Hero",
+			"Paint the Town Red"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Symbiote Spider-Man",
+		"category": [
+			"Hero",
+			"Paint the Town Red"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Bullseye",
+		"category": [
+			"Hero",
+			"Villains"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Dr. Octopus",
+		"category": [
+			"Hero",
+			"Villains"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Electro",
+		"category": [
+			"Hero",
+			"Villains"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Enchantress",
+		"category": [
+			"Hero",
+			"Villains"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Green Goblin",
+		"category": [
+			"Hero",
+			"Villains"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Juggernaut",
+		"category": [
+			"Hero",
+			"Villains"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Kingpin (Hero)",
+		"category": [
+			"Hero",
+			"Villains"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Kraven",
+		"category": [
+			"Hero",
+			"Villains"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Loki (Hero)",
+		"category": [
+			"Hero",
+			"Villains"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Magneto (Hero)",
+		"category": [
+			"Hero",
+			"Villains"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Mysterio (Hero)",
+		"category": [
+			"Hero",
+			"Villains"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Mystique",
+		"category": [
+			"Hero",
+			"Villains"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Sabretooth (Hero)",
+		"category": [
+			"Hero",
+			"Villains"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Ultron (Hero)",
+		"category": [
+			"Hero",
+			"Villains"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Venom (Villains)",
+		"category": [
+			"Hero",
+			"Villains"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Drax the Destroyer",
+		"category": [
+			"Hero",
+			"Guardians of the Galaxy"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Gamora (GotG)",
+		"category": [
+			"Hero",
+			"Guardians of the Galaxy"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Groot",
+		"category": [
+			"Hero",
+			"Guardians of the Galaxy"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Rocket Raccoon",
+		"category": [
+			"Hero",
+			"Guardians of the Galaxy"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Star-Lord (GotG)",
+		"category": [
+			"Hero",
+			"Guardians of the Galaxy"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Greithoth, Breaker of Wills",
+		"category": [
+			"Hero",
+			"Fear Itself"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Kuurth, Breaker of Stone",
+		"category": [
+			"Hero",
+			"Fear Itself"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Nerkkod, Breaker of Oceans",
+		"category": [
+			"Hero",
+			"Fear Itself"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Nul, Breaker of Worlds",
+		"category": [
+			"Hero",
+			"Fear Itself"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Skadi",
+		"category": [
+			"Hero",
+			"Fear Itself"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Skirn, Breaker of Men",
+		"category": [
+			"Hero",
+			"Fear Itself"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Apocalyptic Kitty Pride",
+		"category": [
+			"Hero",
+			"Secret Wars Volume 1"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Black Bolt (Secret Wars 1)",
+		"category": [
+			"Hero",
+			"Secret Wars Volume 1"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Black Panther (Secret Wars 1)",
+		"category": [
+			"Hero",
+			"Secret Wars Volume 1"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Captain Marvel (Secret Wars 1)",
+		"category": [
+			"Hero",
+			"Secret Wars Volume 1"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Dr. Strange (Secret Wars 1)",
+		"category": [
+			"Hero",
+			"Secret Wars Volume 1"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Lady Thor",
+		"category": [
+			"Hero",
+			"Secret Wars Volume 1"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Magik",
+		"category": [
+			"Hero",
+			"Secret Wars Volume 1"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Maximus",
+		"category": [
+			"Hero",
+			"Secret Wars Volume 1"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Namor, the Sub-Mariner",
+		"category": [
+			"Hero",
+			"Secret Wars Volume 1"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Old Man Logan",
+		"category": [
+			"Hero",
+			"Secret Wars Volume 1"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Proxima Midnight",
+		"category": [
+			"Hero",
+			"Secret Wars Volume 1"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Superior Iron Man",
+		"category": [
+			"Hero",
+			"Secret Wars Volume 1"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Thanos (Hero)",
+		"category": [
+			"Hero",
+			"Secret Wars Volume 1"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Ultimate Spider-Man",
+		"category": [
+			"Hero",
+			"Secret Wars Volume 1"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Agent Venom",
+		"category": [
+			"Hero",
+			"Secret Wars Volume 2"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Arkon the Magnificant",
+		"category": [
+			"Hero",
+			"Secret Wars Volume 2"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Beast (Secret Wars 2)",
+		"category": [
+			"Hero",
+			"Secret Wars Volume 2"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Black Swan",
+		"category": [
+			"Hero",
+			"Secret Wars Volume 2"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "The Captain and the Devil",
+		"category": [
+			"Hero",
+			"Secret Wars Volume 2"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Captain Britain",
+		"category": [
+			"Hero",
+			"Secret Wars Volume 2"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Corvus Glaive",
+		"category": [
+			"Hero",
+			"Secret Wars Volume 2"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Dr. Punisher, Soldier Supreme",
+		"category": [
+			"Hero",
+			"Secret Wars Volume 2"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Elsa Bloodstone (Secret Wars 2)",
+		"category": [
+			"Hero",
+			"Secret Wars Volume 2"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Phoenix Force Cyclops",
+		"category": [
+			"Hero",
+			"Secret Wars Volume 2"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Ruby Summers",
+		"category": [
+			"Hero",
+			"Secret Wars Volume 2"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Shang-Chi",
+		"category": [
+			"Hero",
+			"Secret Wars Volume 2"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Silk",
+		"category": [
+			"Hero",
+			"Secret Wars Volume 2"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Soulsword Colossus",
+		"category": [
+			"Hero",
+			"Secret Wars Volume 2"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Spider-Gwen",
+		"category": [
+			"Hero",
+			"Secret Wars Volume 2"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Time-Traveling Jean Grey",
+		"category": [
+			"Hero",
+			"Secret Wars Volume 2"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Agent X-13",
+		"category": [
+			"Hero",
+			"Captain America 75th Anniversary"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Captain America (Falcon)",
+		"category": [
+			"Hero",
+			"Captain America 75th Anniversary"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Captain America 1941",
+		"category": [
+			"Hero",
+			"Captain America 75th Anniversary"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Steve Rogers, Director of S.H.I.E.L.D.",
+		"category": [
+			"Hero",
+			"Captain America 75th Anniversary"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Winter Soldier",
+		"category": [
+			"Hero",
+			"Captain America 75th Anniversary"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Captain America, Secret Avenger",
+		"category": [
+			"Hero",
+			"Civil War"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Cloak & Dagger",
+		"category": [
+			"Hero",
+			"Civil War"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Daredevil (Civil War)",
+		"category": [
+			"Hero",
+			"Civil War"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Falcon",
+		"category": [
+			"Hero",
+			"Civil War"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Goliath",
+		"category": [
+			"Hero",
+			"Civil War"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Hercules",
+		"category": [
+			"Hero",
+			"Civil War"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Hulkling",
+		"category": [
+			"Hero",
+			"Civil War"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Luke Cage",
+		"category": [
+			"Hero",
+			"Civil War"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Patriot",
+		"category": [
+			"Hero",
+			"Civil War"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Peter Parker",
+		"category": [
+			"Hero",
+			"Civil War"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Speedball",
+		"category": [
+			"Hero",
+			"Civil War"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Stature",
+		"category": [
+			"Hero",
+			"Civil War"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Storm & Black Panther",
+		"category": [
+			"Hero",
+			"Civil War"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Tigra",
+		"category": [
+			"Hero",
+			"Civil War"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Vision",
+		"category": [
+			"Hero",
+			"Civil War"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Wiccan",
+		"category": [
+			"Hero",
+			"Civil War"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Bob, Agent of Hydra",
+		"category": [
+			"Hero",
+			"Deadpool"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Deadpool (Deadpool)",
+		"category": [
+			"Hero",
+			"Deadpool"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Slapstick",
+		"category": [
+			"Hero",
+			"Deadpool"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Solo",
+		"category": [
+			"Hero",
+			"Deadpool"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Stingray",
+		"category": [
+			"Hero",
+			"Deadpool"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Angel Noir",
+		"category": [
+			"Hero",
+			"Noir"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Daredevil Noir",
+		"category": [
+			"Hero",
+			"Noir"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Iron Man Noir",
+		"category": [
+			"Hero",
+			"Noir"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Luke Cage Noir",
+		"category": [
+			"Hero",
+			"Noir"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Spider-Man Noir",
+		"category": [
+			"Hero",
+			"Noir"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Aurora & Northstar",
+		"category": [
+			"Hero",
+			"X-Men"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Banshee",
+		"category": [
+			"Hero",
+			"X-Men"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Beast (X-Men)",
+		"category": [
+			"Hero",
+			"X-Men"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Cannonball",
+		"category": [
+			"Hero",
+			"X-Men"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Colossus & Wolverine",
+		"category": [
+			"Hero",
+			"X-Men"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Dazzler",
+		"category": [
+			"Hero",
+			"X-Men"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Havok",
+		"category": [
+			"Hero",
+			"X-Men"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Jubilee",
+		"category": [
+			"Hero",
+			"X-Men"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Kitty Pryde",
+		"category": [
+			"Hero",
+			"X-Men"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Legion",
+		"category": [
+			"Hero",
+			"X-Men"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Longshot",
+		"category": [
+			"Hero",
+			"X-Men"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Phoenix",
+		"category": [
+			"Hero",
+			"X-Men"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Polaris",
+		"category": [
+			"Hero",
+			"X-Men"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Psylocke",
+		"category": [
+			"Hero",
+			"X-Men"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "X-23",
+		"category": [
+			"Hero",
+			"X-Men"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Happy Hogan",
+		"category": [
+			"Hero",
+			"Spider-Man Homecoming"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "High Tech Spider-Man",
+		"category": [
+			"Hero",
+			"Spider-Man Homecoming"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Peter Parker, Homecoming",
+		"category": [
+			"Hero",
+			"Spider-Man Homecoming"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Peter's Allies",
+		"category": [
+			"Hero",
+			"Spider-Man Homecoming"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Tony Stark",
+		"category": [
+			"Hero",
+			"Spider-Man Homecoming"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Gwenpool",
+		"category": [
+			"Hero",
+			"Champions"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Ms. Marvel",
+		"category": [
+			"Hero",
+			"Champions"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Nova (Champions)",
+		"category": [
+			"Hero",
+			"Champions"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Totally Awesome Hulk",
+		"category": [
+			"Hero",
+			"Champions"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Viv Vision",
+		"category": [
+			"Hero",
+			"Champions"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Amadeus Cho",
+		"category": [
+			"Hero",
+			"World War Hulk"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Bruce Banner (World War Hulk)",
+		"category": [
+			"Hero",
+			"World War Hulk"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Caiera",
+		"category": [
+			"Hero",
+			"World War Hulk"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Gladiator Hulk",
+		"category": [
+			"Hero",
+			"World War Hulk"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Hiroim",
+		"category": [
+			"Hero",
+			"World War Hulk"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Hulkbuster Iron Man",
+		"category": [
+			"Hero",
+			"World War Hulk"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Joe Fixit, Grey Hulk",
+		"category": [
+			"Hero",
+			"World War Hulk"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Korg",
+		"category": [
+			"Hero",
+			"World War Hulk"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Miek, The Unhived",
+		"category": [
+			"Hero",
+			"World War Hulk"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Namora",
+		"category": [
+			"Hero",
+			"World War Hulk"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "No-Name, Brood Queen",
+		"category": [
+			"Hero",
+			"World War Hulk"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Rick Jones",
+		"category": [
+			"Hero",
+			"World War Hulk"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Sentry (Hero)",
+		"category": [
+			"Hero",
+			"World War Hulk"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "She-Hulk",
+		"category": [
+			"Hero",
+			"World War Hulk"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Skaar, Son of Hulk",
+		"category": [
+			"Hero",
+			"World War Hulk"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Black Widow (Phase 1)",
+		"category": [
+			"Hero",
+			"Marvel Studios Phase 1"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Captain America (Phase 1)",
+		"category": [
+			"Hero",
+			"Marvel Studios Phase 1"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Hawkeye (Phase 1)",
+		"category": [
+			"Hero",
+			"Marvel Studios Phase 1"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Hulk (Phase 1)",
+		"category": [
+			"Hero",
+			"Marvel Studios Phase 1"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Iron Man (Phase 1)",
+		"category": [
+			"Hero",
+			"Marvel Studios Phase 1"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Nick Fury (Phase 1)",
+		"category": [
+			"Hero",
+			"Marvel Studios Phase 1"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Thor (Phase 1)",
+		"category": [
+			"Hero",
+			"Marvel Studios Phase 1"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Ant-Man (Ant-Man)",
+		"category": [
+			"Hero",
+			"Ant-Man"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Black Knight",
+		"category": [
+			"Hero",
+			"Ant-Man"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Jocasta",
+		"category": [
+			"Hero",
+			"Ant-Man"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Wasp (Ant-Man)",
+		"category": [
+			"Hero",
+			"Ant-Man"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Wonder Man",
+		"category": [
+			"Hero",
+			"Ant-Man"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Carnage",
+		"category": [
+			"Hero",
+			"Venom"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Venom (Venom)",
+		"category": [
+			"Hero",
+			"Venom"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Venom Rocket",
+		"category": [
+			"Hero",
+			"Venom"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Venomized Doctor Strange",
+		"category": [
+			"Hero",
+			"Venom"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Venompool",
+		"category": [
+			"Hero",
+			"Venom"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Howard The Duck",
+		"category": [
+			"Hero",
+			"Dimensions"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Jessica Jones",
+		"category": [
+			"Hero",
+			"Dimensions"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Man-Thing",
+		"category": [
+			"Hero",
+			"Dimensions"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Ms. America",
+		"category": [
+			"Hero",
+			"Dimensions"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Squirrel Girl",
+		"category": [
+			"Hero",
+			"Dimensions"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Captain Marvel, Agent of S.H.I.E.L.D.",
+		"category": [
+			"Hero",
+			"Revelations"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Darkhawk",
+		"category": [
+			"Hero",
+			"Revelations"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Hellcat",
+		"category": [
+			"Hero",
+			"Revelations"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Photon",
+		"category": [
+			"Hero",
+			"Revelations"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Quicksilver",
+		"category": [
+			"Hero",
+			"Revelations"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Ronin",
+		"category": [
+			"Hero",
+			"Revelations"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Scarlet Witch",
+		"category": [
+			"Hero",
+			"Revelations"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Speed",
+		"category": [
+			"Hero",
+			"Revelations"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "War Machine",
+		"category": [
+			"Hero",
+			"Revelations"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Agent Phil Coulson",
+		"category": [
+			"Hero",
+			"S.H.I.E.L.D."
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Deathlok",
+		"category": [
+			"Hero",
+			"S.H.I.E.L.D."
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Mockingbird",
+		"category": [
+			"Hero",
+			"S.H.I.E.L.D."
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Quake",
+		"category": [
+			"Hero",
+			"S.H.I.E.L.D."
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Beta Ray Bill",
+		"category": [
+			"Hero",
+			"Heroes of Asgard"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Lady Sif",
+		"category": [
+			"Hero",
+			"Heroes of Asgard"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Thor (Heroes of Asgard)",
+		"category": [
+			"Hero",
+			"Heroes of Asgard"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Valkyrie",
+		"category": [
+			"Hero",
+			"Heroes of Asgard"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "The Warriors Three",
+		"category": [
+			"Hero",
+			"Heroes of Asgard"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Karma",
+		"category": [
+			"Hero",
+			"The New Mutants"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Mirage",
+		"category": [
+			"Hero",
+			"The New Mutants"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Sunspot",
+		"category": [
+			"Hero",
+			"The New Mutants"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Warlock",
+		"category": [
+			"Hero",
+			"The New Mutants"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Wolfsbane",
+		"category": [
+			"Hero",
+			"The New Mutants"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Adam Warlock",
+		"category": [
+			"Hero",
+			"Into the Cosmos"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Captain Mar-Vell",
+		"category": [
+			"Hero",
+			"Into the Cosmos"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Moondragon",
+		"category": [
+			"Hero",
+			"Into the Cosmos"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Nebula",
+		"category": [
+			"Hero",
+			"Into the Cosmos"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Nova (Into the Cosmos)",
+		"category": [
+			"Hero",
+			"Into the Cosmos"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Phyla-Vell",
+		"category": [
+			"Hero",
+			"Into the Cosmos"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Quasar",
+		"category": [
+			"Hero",
+			"Into the Cosmos"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Ronan the Accuser (Hero)",
+		"category": [
+			"Hero",
+			"Into the Cosmos"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Yondu",
+		"category": [
+			"Hero",
+			"Into the Cosmos"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Black Bolt (Realm of Kings)",
+		"category": [
+			"Hero",
+			"Realm of Kings"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Crystal",
+		"category": [
+			"Hero",
+			"Realm of Kings"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Gorgon",
+		"category": [
+			"Hero",
+			"Realm of Kings"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Karnak",
+		"category": [
+			"Hero",
+			"Realm of Kings"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Medusa",
+		"category": [
+			"Hero",
+			"Realm of Kings"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Brainstorm",
+		"category": [
+			"Hero",
+			"Annihilation"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Fantastic Four United",
+		"category": [
+			"Hero",
+			"Annihilation"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Heralds of Galactus",
+		"category": [
+			"Hero",
+			"Annihilation"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Psi-Lord",
+		"category": [
+			"Hero",
+			"Annihilation"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Super-Skrull",
+		"category": [
+			"Hero",
+			"Annihilation"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "M",
+		"category": [
+			"Hero",
+			"Messiah Complex"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Multiple Man",
+		"category": [
+			"Hero",
+			"Messiah Complex"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Rictor",
+		"category": [
+			"Hero",
+			"Messiah Complex"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Shatterstar",
+		"category": [
+			"Hero",
+			"Messiah Complex"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Siryn",
+		"category": [
+			"Hero",
+			"Messiah Complex"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Stepford Cuckoos",
+		"category": [
+			"Hero",
+			"Messiah Complex"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Strong Guy",
+		"category": [
+			"Hero",
+			"Messiah Complex"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Warpath",
+		"category": [
+			"Hero",
+			"Messiah Complex"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "The Ancient One",
+		"category": [
+			"Hero",
+			"Doctor Strange and the Shadows of Nightmare"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Clea",
+		"category": [
+			"Hero",
+			"Doctor Strange and the Shadows of Nightmare"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Doctor Strange (Doctor Strange)",
+		"category": [
+			"Hero",
+			"Doctor Strange and the Shadows of Nightmare"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Doctor Voodoo",
+		"category": [
+			"Hero",
+			"Doctor Strange and the Shadows of Nightmare"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "The Vishanti",
+		"category": [
+			"Hero",
+			"Doctor Strange and the Shadows of Nightmare"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Drax",
+		"category": [
+			"Hero",
+			"Marvel Studios' Guardians of the Galaxy"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Gamora (Marvel Studios GotG)",
+		"category": [
+			"Hero",
+			"Marvel Studios' Guardians of the Galaxy"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Mantis",
+		"category": [
+			"Hero",
+			"Marvel Studios' Guardians of the Galaxy"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Rocket & Groot",
+		"category": [
+			"Hero",
+			"Marvel Studios' Guardians of the Galaxy"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Star-Lord (Marvel Studios GotG)",
+		"category": [
+			"Hero",
+			"Marvel Studios' Guardians of the Galaxy"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "General Okoye",
+		"category": [
+			"Hero",
+			"Black Panther"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "King Black Panther",
+		"category": [
+			"Hero",
+			"Black Panther"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Princess Shuri",
+		"category": [
+			"Hero",
+			"Black Panther"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Queen Storm of Wakanda",
+		"category": [
+			"Hero",
+			"Black Panther"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "White Wolf",
+		"category": [
+			"Hero",
+			"Black Panther"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Black Widow (Black Widow)",
+		"category": [
+			"Hero",
+			"Black Widow"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Falcon & Winter Soldier",
+		"category": [
+			"Hero",
+			"Black Widow"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Red Guardian",
+		"category": [
+			"Hero",
+			"Black Widow"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "White Tiger",
+		"category": [
+			"Hero",
+			"Black Widow"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Yelena Belova",
+		"category": [
+			"Hero",
+			"Black Widow"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Black Panther (Infinity Saga)",
+		"category": [
+			"Hero",
+			"Marvel Studios' The Infinity Saga"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Bruce Banner (Infinity Saga)",
+		"category": [
+			"Hero",
+			"Marvel Studios' The Infinity Saga"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Captain Marvel (Infinity Saga)",
+		"category": [
+			"Hero",
+			"Marvel Studios' The Infinity Saga"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Doctor Strange (Infinity Saga)",
+		"category": [
+			"Hero",
+			"Marvel Studios' The Infinity Saga"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Wanda & Vision",
+		"category": [
+			"Hero",
+			"Marvel Studios' The Infinity Saga"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Blade, Daywalker",
+		"category": [
+			"Hero",
+			"Midnight Sons"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Elsa Bloodstone (Midnight Sons)",
+		"category": [
+			"Hero",
+			"Midnight Sons"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Morbius",
+		"category": [
+			"Hero",
+			"Midnight Sons"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Werewolf By Night",
+		"category": [
+			"Hero",
+			"Midnight Sons"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Wong, Master of the Mystic Arts",
+		"category": [
+			"Hero",
+			"Midnight Sons"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Apocalyptic Black Widow",
+		"category": [
+			"Hero",
+			"Marvel Studios' What If...?"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Captain Carter",
+		"category": [
+			"Hero",
+			"Marvel Studios' What If...?"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Doctor Strange Supreme",
+		"category": [
+			"Hero",
+			"Marvel Studios' What If...?"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Gamora, Destroyer of Thanos",
+		"category": [
+			"Hero",
+			"Marvel Studios' What If...?"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Killmonger, Spec Ops",
+		"category": [
+			"Hero",
+			"Marvel Studios' What If...?"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Party Thor",
+		"category": [
+			"Hero",
+			"Marvel Studios' What If...?"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Star-Lord T'Challa",
+		"category": [
+			"Hero",
+			"Marvel Studios' What If...?"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Uatu, The Watcher",
+		"category": [
+			"Hero",
+			"Marvel Studios' What If...?"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Ant Army",
+		"category": [
+			"Hero",
+			"Marvel Studios' Ant-Man and the Wasp"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Ant-Man (Ant-Man and the Wasp)",
+		"category": [
+			"Hero",
+			"Marvel Studios' Ant-Man and the Wasp"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Cassie Lang",
+		"category": [
+			"Hero",
+			"Marvel Studios' Ant-Man and the Wasp"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Freedom Fighters",
+		"category": [
+			"Hero",
+			"Marvel Studios' Ant-Man and the Wasp"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Janet Van Dyne",
+		"category": [
+			"Hero",
+			"Marvel Studios' Ant-Man and the Wasp"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Jentorra",
+		"category": [
+			"Hero",
+			"Marvel Studios' Ant-Man and the Wasp"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Scott Lang, Cat Burgler",
+		"category": [
+			"Hero",
+			"Marvel Studios' Ant-Man and the Wasp"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Wasp (Ant-Man and the Wasp)",
+		"category": [
+			"Hero",
+			"Marvel Studios' Ant-Man and the Wasp"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Doctor Doom 2099",
+		"category": [
+			"Hero",
+			"Marvel 2099"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Ghost Rider 2099",
+		"category": [
+			"Hero",
+			"Marvel 2099"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Hulk 2099",
+		"category": [
+			"Hero",
+			"Marvel 2099"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Ravage 2099",
+		"category": [
+			"Hero",
+			"Marvel 2099"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Spider-Man 2099",
+		"category": [
+			"Hero",
+			"Marvel 2099"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Fantomex",
+		"category": [
+			"Hero",
+			"Weapon X"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Marrow",
+		"category": [
+			"Hero",
+			"Weapon X"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Weapon H",
+		"category": [
+			"Hero",
+			"Weapon X"
+		],
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Weapon X (Wolverine)",
+		"category": [
+			"Hero",
+			"Weapon X"
+		],
+		"useful": true
+	},
+	{
+		"count": 0,
+		"name": "Play 1 Villain Deck Card",
+		"category": [
+			"(Trap)"
+		],
+		"trap": true
+	},
+	{
+		"count": 0,
+		"name": "Discard 1 Card",
+		"category": [
+			"(Trap)"
+		],
+		"trap": true
+	},
+	{
+		"count": 0,
+		"name": "KO 1 Non-Grey Card",
+		"category": [
+			"(Trap)"
+		],
+		"trap": true
+	},
+	{
+		"count": 0,
+		"name": "1 Villain Escapes",
+		"category": [
+			"(Trap)"
+		],
+		"trap": true
+	},
+	{
+		"count": 5,
+		"name": "Draw 1 Card",
+		"category": [
+			"(Bonus)"
+		],
+		"filler": true
+	},
+	{
+		"count": 5,
+		"name": "KO 1 Card",
+		"category": [
+			"(Bonus)"
+		],
+		"filler": true
+	},
+	{
+		"count": 5,
+		"name": "Place 1 Bystander on Villain Deck",
+		"category": [
+			"(Bonus)"
+		],
+		"filler": true
+	}
 ]
