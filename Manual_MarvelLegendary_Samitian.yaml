@@ -60,6 +60,22 @@ Manual_MarvelLegendary_Samitian:
     full: 50
     minimal: 0
 
+  filler_traps:
+    # How many fillers will be replaced with traps. 0 means no additional traps, 100 means all fillers are traps.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 100
+    0: 50
+    random: 0
+    random-low: 0
+    random-high: 0
+
+  Enable_Core_Set:
+    # Should items/locations linked to this option be enabled?
+    'false': 0
+    'true': 50
+
   Enable_Dark_City:
     # Should items/locations linked to this option be enabled?
     'false': 0
