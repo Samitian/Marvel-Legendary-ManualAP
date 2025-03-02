@@ -8,6 +8,8 @@ Rules:
 
 - Collect all 6 Infinity Stones to win
 
+- Extra Rules: If a Mastermind or Scheme has you use a specific hero or extra heroes you may use that hero or extras even if you don't have them unlocked yet.
+
 Requirements:
 
 - At least 1 Base Set (Core Set, Villains, Marvel Studios Phase 1, Marvel Studios What if...?).
