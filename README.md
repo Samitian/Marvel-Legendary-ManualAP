@@ -8,7 +8,7 @@ Rules:
 
 - Collect all 6 Infinity Stones to win
 
-- Extra Rules: If a Mastermind or Scheme has you use a specific hero or extra heroes you may use that hero or extras even if you don't have them unlocked yet.
+- Extra Rules: If a scheme or mastermind asks you to use a hero or combination of heroes you do not have unlocked yet, use what you have to the best of your ability and add in your not unlocked heroes if needed.
 
 Requirements:
 
