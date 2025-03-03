@@ -12,7 +12,7 @@ Rules:
 
 Requirements:
 
-- At least 1 Base Set (Core Set, Villains, Marvel Studios Phase 1, Marvel Studios What if...?).
+- At least 1 Base Set (Core Set, Villains, Marvel Studios Phase 1, Marvel Studios What if...?). If playing with Marvel Studios Phase 1 you will need at least 1 other set. 
 
 - For the best experience, at least a few other sets. This is playable without extras but you will have access to all of your available content at the start of the game and it will be in my opinion not very interesting.
 
